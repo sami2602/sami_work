@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <STYLE>
+     .flex-container{
+        display: flex;
+        /* flex-direction: column; */
+        /* flex-wrap: nowrap; */
+        /* flex-wrap: wrap; */
+        /* flex-wrap: wrap-reverse; */
+        /* flex-flow: nowrap; */
+        /* justify-content: space-around; */
+        /* justify-content: space-evenly; */
+        /* justify-content: flex-end; */
+        /* justify-content: flex-start; */
+        /* align-items:stretch;
+        /* height: 400px; */
+        /* flex-wrap: nowrap;
+        align-content: space-around ; */ 
+        height: 100px;
+        background-color: rgb(3, 90, 49);
+    }
+     .flex-container > div {
+        background-color: rgb(184, 188, 221);
+        width: 45px;
+        margin: 10px;
+        text-align: center;
+        line-height: 45px;
+        font-size: 35px;
+
+    }
+
+    </STYLE>
+</head>
+<body>
+    <div class="flex-container">
+        <div style="order:4 ; flex-grow: 5;">A</div>
+        <div style="order: 3; flex-shrink: 4;">B</div>
+        <div>C</div>
+        <DIV>d</DIV>
+        <!-- <DIV>F</DIV>
+        <DIV>G</DIV>
+        <div>t</div>
+        <div>f</div>
+        <div>d</div>
+        <div>d</div>
+        <div>m</div> -->
+     
+    </div>
+</body>
+</html>

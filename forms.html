@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        form{
+            font-size: large;
+            /* text-align: center; */
+            display: flex;
+            flex-direction: column ;
+            border: 4px 2px 4px 2px ; color: black; border-style: solid;
+            border-radius: 4px;
+            padding: 20px;
+            background-color: rgb(172, 216, 90);
+            /* margin: 200px; */
+            margin-top: 100px;
+            margin-inline: 480px;    
+        }
+        div{
+            inline-size: block;
+            justify-content: space-between;
+        }
+            
+        
+        input[type="email" ],[type="text"],[type="password"]
+        {
+            height: 25px;
+        }
+
+    </style>
+</head>
+<body>
+   <form action="index.html"> 
+    <label for="">First name :</label>
+    <input type="text" name="" id="" placeholder="Enter First Name">
+    <br><br>
+    <label for="">Email :</label>
+    <input type="email" name="" id="" placeholder="forexample@gmail.com">
+    <br><br>
+    <label for="">Password :</label>
+    <input type="password" name="" id="" placeholder="Must contain 8 characters ">
+    <br>
+    <div class="main">
+    <div class="check">
+    <input type="checkbox" name="" id="">
+    <label for="">Remember Me</label>
+</div>
+<div class="forgot">forgot password ?</div> 
+</div>
+ <br>
+    <!-- <input type="button" value="submit"> -->
+     <button type="Submit">Submit</button>
+   </form> 
+</body>
+</html>

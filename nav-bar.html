@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <STYLE>
+        body{
+            margin: 0;
+        }
+        .main{
+            background-color: rgb(1, 1, 1);
+            display: flex;
+            flex-direction: row;
+            justify-content: space-between;
+            padding: 12px;
+            padding-left: 22px;
+        }
+        .logo{
+            color:white
+        }
+        .links,
+        a {
+            list-style: none;
+            color: white;
+            font-size: 30px;
+            text-decoration: none;
+            display: flex;
+            flex-direction: row;
+            gap: 20px;
+            padding-right: 22px;
+            padding-top: 10px;
+            font-weight: lighter;
+        }
+        a:hover{
+            color: rgb(0, 0, 0);
+            background-color: white;
+        }
+        .active{
+            color: black;
+        }
+    </STYLE>
+</head>
+<body>
+    <div class="main">
+        <div class="logo">
+        <h1>Brand Logo</h1>
+    </div> 
+    <div class="links">
+        <div class="active"><a href="">Home</a></div>
+        <div><a href="">About</a></div>
+        <div><a href="">Services</a></div>
+        <div><a href="">Contact</a></div>
+        <div><a href="">Blog</a></div> 
+    </div>
+</div>
+</body>
+</html>
