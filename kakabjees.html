@@ -5,55 +5,120 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
     <STYLE>
-    
-    .container{
-    display: inline-block;
-    /* flex-direction: row; */
-    justify-content: space-between;
-    padding: 12px;
-    padding-left: 240px;
-    padding-right: 240px;
-    border-top: 2px dotted;
-    border-bottom: 2px dotted;
-    position: sticky;
-    top: 10px;
-        }
-        .nav2l{
-            display: flex;
+body
+{margin: 0;}
+
+.container1{
+    display: flex;
+    position: relative;
     flex-direction: row;
     justify-content: space-between;
-    padding: 20px;
-    padding-left: 20px;
-    font-size: 25px;
-        }
-        .nav2r{
-            font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-            display: flex;
+    color: rgb(242, 243, 239);
+    background-color: black;
+    position: sticky;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+
+.container2{
+    display: flex;
     flex-direction: row;
     justify-content: space-evenly;
-    padding: 20px;
-    padding-left: 20px;
-    font-size: 25px;    
+    color: rgb(242, 243, 239);
+    position: sticky;
+    top: 10px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+    .nav2l{
+         display: flex;
+         flex-direction:row;
+         justify-content: space-evenly;
+         padding: 30px;
+         padding-left: 15px;
+         font-size: 14px;
         }
-        .div{
-            padding: 20px ;
+        .nav2r{
+         display: flex;
+         flex-direction: row;
+         justify-content: space-evenly;
+         padding: 30px;
+         padding-left: 15px;
+         font-size: 14px;    
+        }
+        .h{
+             padding: 15px ;
             justify-content: space-around;
+            border-top: 2px dotted white;
+            border-bottom: 2px dotted white;
+        }
+        .au{
+             padding: 15px ;
+            justify-content: space-around;
+            display: flex;
+            flex-direction: row; 
+            border-top: 2px dotted white;
+            border-bottom: 2px dotted white;   
+        }
+        .m{
+             padding: 15px ;
+            justify-content: space-around;
+            border-top: 2px dotted white;
+            border-bottom: 2px dotted white;
+        }
+        .order{
+             padding: 15px ;
+            justify-content: space-around;
+            border-top: 2px dotted white;
+            border-bottom: 2px dotted white;
+        }
+        .bank{
+             padding: 15px ;
+            justify-content: space-around;
+            border-top: 2px dotted white;
+            border-bottom: 2px dotted white;
+        }
+        .contact    {
+             padding: 15px ;
+            justify-content: space-around;
+            border-top: 2px dotted white;
+            border-bottom: 2px dotted white;
+        }
+        .logo{
+            padding: 18px;
+        }
+        .video{
+            position: absolute;
+            background: fixed;
+            height: 100%;
+            margin-top: -100px;
+            z-index: -2;
         }
     </STYLE>
 </head>
 <body>
-  <div class="container">
-
-    <div class="nav2l">
+    <div class="container1">
+        <div class="communication">
+        <div class="phone">Phone: 021 111 666 111 </div>
+        <div class="mail">mailto:marketing@kababjees.com</div>
+    </div>
+    <div class="social">
+        <div class="fb">https://www.facebook.com/kababjees</div>
+        <div class="ig">https://www.instagram.com/kababjees.official/</div>
+    </div>
+    </div>
+    <div class="container2">
+   <div class="nav2l">
         <div class="h">HOME</div>
-        <div class="as">ABOUT US</div>
+        <div class="au">ABOUT US</div>
         <div class="m">MENU</div>
     </div>
-    <img src="css/kababjees/logo1.png" height="100px" width="450px" alt="abc">
+    <div class="logo"><img src="css/kababjees/logo1.png" height="70px" width="400px" alt="abc"></div>
     <div class="nav2r">
-        <div class="divob">ORDER ONLINE </div> 
-        <div class="divbd">BANK DISCOUNT</div>
-        <div class="divc">CONTACT</div>
+        <div class="order">ORDER ONLINE </div> 
+        <div class="bank">BANK DISCOUNT</div>
+        <div class="contact">CONTACT</div>
+    </div>
+    <div class="video"><video src="css/kababjees/Kababjees Highway without number (1).mp4" width="1350px"  autoplay loop muted></video>
     </div>
 </div>
 </body>
