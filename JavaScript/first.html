@@ -12,19 +12,60 @@
         // console.log("sami");  
         // var name="Sami";
         // var age=25;
-        var name,age;
-        name="Sami";
-        age=25;
-        document.write(name," ",age,"<br>");
-        document.write(name,"<br>",age,"<br>","<br>");    
+//         var name,age;
+//         name="Sami";
+//         age=25;
+//         document.write(name," ",age,"<br>");
+//         document.write(name,"<br>",age,"<br>","<br>");    
 
-    var number1=10;
-    var number2=5;
+//     var number1=10;
+//     var number2=5;
 
- document.write(number1+number2,"<br>")
- document.write(number1-number2,"<br>")
- document.write(number1*number2,"<br>")
- document.write(number1/number2,"<br>")
+//  document.write(number1+number2,"<br>")
+//  document.write(number1-number2,"<br>")
+//  document.write(number1*number2,"<br>")
+//  document.write(number1/number2,"<br>")
+
+
+// arithmatic operation
+var loan_amount= 34500;
+var intrest=17.5;
+var intrest_amount,total_amount;
+intrest_amount=loan_amount*(intrest/100);
+total_amount=loan_amount+intrest_amount;
+document.write("<b> Total amount to be paid ($) : </b>",total_amount ,"<br>");
+
+
+// relational operator
+var num1=100;
+var num2=100;
+// greater
+document.write(num1>num2,"<br>");
+// less then
+document.write(num1<num2,"<br>");
+// greater equal
+document.write(num1>=num2,"<br>");
+// less equal
+document.write(num1<=num2,"<br>");
+// not  equal to(only integer)
+document.write(num1!=num2,"<br>");
+// strickly not equal to(value+ data type)
+document.write(num1!==num2,"<br>");
+// equals to
+document.write(num1==num2,"<br>");
+// strickly equals to(value+data type)
+document.write(num1===num2,"<br>","<br>","<br>");
+
+// logical operator
+var name="sami";
+var age=age="25"
+// AND(&&){ANY CONDITION FALSE RETURN FALSE}
+document.write((name=="sami")&&(age==25),"<br>");
+// OR(||){ANY CONDITION TRUE RETURN TRUE}
+document.write((name=="sami")||(age==25), "<br>");
+// NOT(!){ANY CONDITION FALSE RETURN TRUE}
+document.write(!((name=="sami")||(age==25), "<br>"));
+
 </script>
 </body>             
 </html> 
