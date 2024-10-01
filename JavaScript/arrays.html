@@ -12,7 +12,7 @@
 
         var student=["sami","sami@gmail.com",123456,"2407f","karachi"];
         console.log(student);
-    </script> -->
+    </scrip> -->
 <script>
 
 // Array methods
@@ -56,12 +56,51 @@
 // console.log(fruits.slice(1,3));
 
 // 9.splice
-var fruits=["banana","apple","mango","strawberry"];
-// fruits.splice(1,1,"orange"); //replace
-// fruits.splice(2,1);//remove
-fruits.splice(2,0,"plum");//add
-console.log(fruits);
+// var fruits=["banana","apple","mango","strawberry"];
+// // fruits.splice(1,1,"orange"); //replace
+// // fruits.splice(2,1);//remove
+// fruits.splice(2,0,"plum");//add
+// console.log(fruits);
 
+// ***************************MULTIDIMENSION ARRAY*********************
+var students=[
+    [101,"Danial",25,"CPISM","North Nazimabad"],
+    [102,"Ali",26,"CPISM","Nazimabad"],
+    [103,"Ahmed",27,"CPISM","North Karachi"],
+]
+
+// // document.write(students);
+// document.write(
+//     "<table border=2> <tr> <th>ID</th> <th>Name</th> <th>Age</th> <th>course</th> <th>Location</th></tr>",
+//         "<tr>",
+//             "<td>",students[0][0],"</td>",
+//             "<td>",students[0][1],"</td>",
+//             "<td>",students[0][2],"</td>",
+//             "<td>",students[0][3],"</td>",
+//             "<td>",students[0][4],"</td>",
+//         "</tr>",
+//         "<tr>",
+//             "<td>",students[1][0],"</td>",
+//             "<td>",students[1][1],"</td>",
+//             "<td>",students[1][2],"</td>",
+//             "<td>",students[1][3],"</td>",
+//             "<td>",students[1][4],"</td>",
+//         "</tr>",
+//         "<tr>",
+//             "<td>",students[2][0],"</td>",
+//             "<td>",students[2][1],"</td>",
+//             "<td>",students[2][2],"</td>",
+//             "<td>",students[2][3],"</td>",
+//             "<td>",students[2][4],"</td>",
+//         "</tr>",
+//         "</table>"
+// );
+
+// console.log(students);
+
+students.forEach(element => {
+    document.write(element,"<br>");
+});
 </script>
 </body>
 </html>
