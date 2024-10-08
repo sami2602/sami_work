@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+
+    <!-- <input type="text" name="" id="fname" placeholder="Enter your Name">
+    <p id="print"></p> -->
+
+    <input type="email" name="" id="fmail" placeholder="Enter your Email">
+    <p id="print"></p>
+    <button type="submit" onclick="print()">Submit</button>
+
+    
+    <script>
+        // function print() {
+        //     var name=document.getElementById('fname').value;
+        //   var exp=/^[A-z ]{3,20}$/gm;
+        //   if (exp.test(name)) {
+        //     document.getElementById('print').innerHTML=name;
+        //     document.getElementById('print').style.color="green";
+        //   } else {
+        //     document.getElementById('print').innerHTML="Incorrect";
+        //     document.getElementById('print').style.color="red";
+        //   } }
+          function print() { 
+          var mail=document.getElementById('fmail').value;
+          var exp2=/^[A-z0-9@.]{1,100}$/gm; 
+          if (exp2.test(mail)) {
+             document.getElementById('print').innerHTML=mail;
+            document.getElementById('print').style.color="green"
+          } else {
+            document.getElementById('print').innerHTML="Incorrect";
+            document.getElementById('print').style.color="red";
+          }
+          }
+
+            // document.getElementById('print').innerHTML=name;
+            // document.getElementById('print').style.color="red";
+            // document.getElementById('print').style.border="2px solid red";
+        
+          
+    </script>
+</body>
+</html>
