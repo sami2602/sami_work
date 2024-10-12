@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <form action="signin.html">
+        <input type="text" name="" id="fname" placeholder="Enter Your Name" required>
+        <input type="email" name="" id="femail" placeholder="Enter your mail" required>
+        <input type="password" name="" id="fpass" placeholder="Enter Your Password" required>
+        <button type="submit" onclick="signup()">Sign-up</button>
+    </form>
+
+    <script>
+        function signup() {
+            var name =document.getElementById('fname').value;
+            var email =document.getElementById('femail').value;
+            var pass = document.getElementById('fpass').value;       
+        }
+    </script>
+</body>
+</html>

@@ -6,29 +6,34 @@
     <title>Document</title>
 </head>
 <body>
-
-    <!-- <input type="text" name="" id="fname" placeholder="Enter your Name">
-    <p id="print"></p> -->
+<!-- 
+    <input type="text" name="" id="fname" placeholder="Enter your Name">
+    <p id="print"><br></p> 
+    <button type="submit" onclick="print()">Submit</button>
 
     <input type="email" name="" id="fmail" placeholder="Enter your Email">
-    <p id="print"></p>
+    <p id="print"><br></p>
+    <button type="submit" onclick="print()">Submit</button>
+
+    <input type="contact" name="" id="fcontact" placeholder="Enter your Contact">
+    <p id="print"><br>  </p>
     <button type="submit" onclick="print()">Submit</button>
 
     
     <script>
-        // function print() {
-        //     var name=document.getElementById('fname').value;
-        //   var exp=/^[A-z ]{3,20}$/gm;
-        //   if (exp.test(name)) {
-        //     document.getElementById('print').innerHTML=name;
-        //     document.getElementById('print').style.color="green";
-        //   } else {
-        //     document.getElementById('print').innerHTML="Incorrect";
-        //     document.getElementById('print').style.color="red";
-        //   } }
+        function print() {
+            var name=document.getElementById('fname').value;
+          var exp=/^[A-z ]{3,20}$/gm;
+          if (exp.test(name)) {
+            document.getElementById('print').innerHTML=name;
+            document.getElementById('print').style.color="green";
+          } else {
+            document.getElementById('print').innerHTML="Incorrect";
+            document.getElementById('print').style.color="red";
+          } }
           function print() { 
           var mail=document.getElementById('fmail').value;
-          var exp2=/^[A-z0-9@.]{1,100}$/gm; 
+          var exp2=/^[A-z0-9.]{3,20}@[A-z]{3,10}.[A-z]{2,6}$/gm; 
           if (exp2.test(mail)) {
              document.getElementById('print').innerHTML=mail;
             document.getElementById('print').style.color="green"
@@ -37,12 +42,68 @@
             document.getElementById('print').style.color="red";
           }
           }
-
-            // document.getElementById('print').innerHTML=name;
-            // document.getElementById('print').style.color="red";
-            // document.getElementById('print').style.border="2px solid red";
-        
+          function print() { 
+          var contact=document.getElementById('fcontact').value;
+          var exp3=/^[0-9+-]{11,20}/gm; 
+          if (exp3.test(contact)) {
+             document.getElementById('print').innerHTML=contact;
+            document.getElementById('print').style.color="green"
+          } else {
+            document.getElementById('print').innerHTML="Incorrect";
+            document.getElementById('print').style.color="red";
+          }
+          } -->
           
-    </script>
+          
+            <!-- // document.getElementById('print').innerHTML=name;
+            // document.getElementById('print').style.color="red";
+            // document.getElementById('print').style.border="2px solid red"; -->
+        
+            
+          
+    <!-- </script> -->
+
+    <input type="text" name="" id="fname" placeholder="Enter your Name">
+    <p id="print"></p> 
+    <input type="email" name="" id="fmail" placeholder="Enter your Email">
+    <p id="print"></p>
+    <input type="contact" name="" id="fcontact" placeholder="Enter your Contact">
+    <p id="print"></p>
+    <button type="submit" onclick="print()">Submit</button>
+  
+  <script>
+
+     var name=document.getElementById('fname').value;
+     var exp_name=/^[A-z ]{3,20}$/gm;
+     var mail=document.getElementById('fmail').value;
+     var exp_mail=/^[A-z0-9.]{3,20}@[A-z]{3,10}.[A-z]{2,6}$/gm;
+     var contact=document.getElementById('fcontact').value;
+     var exp3=/^[0-9+-]{11,20}/gm;
+
+     if (exp_name.test(name)) (
+            document.getElementById('print').innerHTML=name,
+            document.getElementById('print').style.color="green"
+           );
+          else if (
+            document.getElementById('print').innerHTML="Incorrect",
+            document.getElementById('print').style.color="red"
+           );
+          if (exp_mail.test(mail)) (
+             document.getElementById('print').innerHTML=mail,
+            document.getElementById('print').style.color="green"
+          );
+            else if  (
+            document.getElementById('print').innerHTML="Incorrect",
+            document.getElementById('print').style.color="red"
+          );
+          else if  (exp3.test(contact)) (
+             document.getElementById('print').innerHTML=contact,
+            document.getElementById('print').style.color="green");
+          else if  (
+            document.getElementById('print').innerHTML="Incorrect",
+            document.getElementById('print').style.color="red"
+          );
+
+   </script>
 </body>
 </html>
