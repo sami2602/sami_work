@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <form action="">
+        <input type="email" name="" id="femail" placeholder="Enter Your email" required>
+        <input type="password" name="" id="fpass" placeholder="Enter Your Password" required>
+        <button type="submit" onclick="signin()">sign-in</button>
+    </form>
+
+<script>
+function signin() {
+var email = document.getElementById('femail').value; 
+var pass = document.getElementById('fpass').value;
+ var local_email=localStorage.getItem('email');
+ var local_pass=localStorage.getItem('pass');
+if (email != "" && pass != "") {
+    if (email == local_email && pass == local_pass){
+window.location.href = '';
+ alert("Login Successful");
+} else {
+alert("Login Failed");
+}
+}
+else{
+alert("Please fill in the required fields");
+}
+}
+// <!-- sahi karna hai -->
+</script>
+</body>
+</html>

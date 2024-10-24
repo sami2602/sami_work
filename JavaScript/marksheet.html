@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+   
+   <input type="text" name="" id="s_name" placeholder="Enter Name">
+   <input type="text" name="" id="s_ins" placeholder="Enter Institute">
+   <input type="text" name="" id="s_batch" placeholder="Enter Batch">
+   <input type="text" name="" id="html_m" placeholder="Enter Html Marks">
+   <input type="text" name="" id="css_m" placeholder="Enter CSS Marks">
+   <input type="text" name="" id="js_m" placeholder="Enter JS Marks">
+   <button type="submit" onclick="marks()">Submit</button>
+
+
+   <table border="2">
+    <th>Name</th>
+    <th>Batch</th>
+    <th>Institute</th>
+    <th>Html</th>
+    <th>CSS</th>
+    <th>JS</th>
+    <th>Obtained Marks</th>
+    <th>Percentage</th>
+    <th>Grade</th>
+    <th>Remove</th>
+<tr>
+    <td id="p_name"></td>
+    <td id="p_batch"></td>
+    <td id="p_ins"></td>
+    <td id="p_html"></td>
+    <td id="p_css"></td>
+    <td id="p_js"></td>
+    <td id="p_ob"></td>
+    <td id="p_per"></td>
+    <td id="p_grade"></td>
+    <td id="del"><button onclick="remove()">Delete</button></td>
+</tr>
+
+   </table>
+
+<script>
+    function marks() {
+        
+        var name = document.getElementById('s_name').value;
+        document.getElementById('p_name').innerHTML = name;
+        localStorage.setItem('name',name);
+        
+
+        var ins = document.getElementById('s_ins').value;
+        document.getElementById('p_ins').innerHTML = ins;
+        localStorage.setItem('Institute',ins);
+
+
+        var batch = document.getElementById('s_batch').value;
+        document.getElementById('p_batch').innerHTML = batch;
+        localStorage.setItem('Batch',batch);
+
+
+        var html = document.getElementById('html_m').value;
+        document.getElementById('p_html').innerHTML = html;
+        localStorage.setItem('html_marks',html);
+
+        var css = document.getElementById('css_m').value;
+        document.getElementById('p_css').innerHTML = css;
+        localStorage.setItem('css_marks',css);
+
+        var js = document.getElementById('js_m').value;
+        document.getElementById('p_js').innerHTML = js;
+        localStorage.setItem('js_marks',js);
+      
+
+        var ob= parseInt(html)+parseInt(css)+parseInt(js)
+        document.getElementById('p_ob').innerHTML=ob;
+        localStorage.setItem('Obtained Marks',ob);
+        
+
+        var per =((ob/300)*100).toFixed(2);
+        document.getElementById('p_per').innerHTML=per+"%";
+        localStorage.setItem('Percentage',per);
+    
+
+        if (per<=100 && per>=80) {
+            var grade= document.getElementById('p_grade').innerHTML="A+";
+        }
+        else if (per<=80 && per>=70) {
+            var grade=document.getElementById('p_grade').innerHTML="A";
+        }
+        else if (per<=70 && per>=60) {
+            var grade=document.getElementById('p_grade').innerHTML="B";
+        }
+        else if (per<=60 && per>=50) {
+            var grade=document.getElementById('p_grade').innerHTML="C";
+        }
+        else if (per<=50 && per>=40) {
+            var grade=document.getElementById('p_grade').innerHTML="D";
+        }
+        else if (per<=40 && per>=0) {
+            var grade=document.getElementById('p_grade').innerHTML="Fail";
+        }    
+        else{
+            var grade=document.getElementById('p_grade').innerHTML="Invalid Marks";
+        }
+        localStorage.setItem('Grade',grade);
+    }
+   function remove(){
+        localStorage.removeItem('name');
+        localStorage.removeItem('Institute');
+        localStorage.removeItem('Batch');
+        localStorage.removeItem('html_marks');
+        localStorage.removeItem('css_marks');
+        localStorage.removeItem('js_marks');
+        localStorage.removeItem('Obtained Marks');
+        localStorage.removeItem('Percentage');
+        localStorage.removeItem('Grade');
+        location.reload();
+    }
+    
+
+</script>
+
+
+
+</body>
+</html>
