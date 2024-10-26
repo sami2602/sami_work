@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <table border="2px " >
+        <th>Name</th>
+        <th>Email</th>
+        <th>Phone</th>
+        <th>Age</th>
+        <th>Food</th>
+        <th colspan="2">Location</th>
+
+        <tr>
+            <td id="nam"></td>
+            <td id="emai"></td>
+            <td id="ph"></td>
+            <td id="ag"></td>
+            <td id="foo"></td>
+            <td id="city" ></td>
+            <td id="loc"></td>
+            
+        </tr>
+    </table>
+    <script>
+        // var fruits=['Apple','Banana','Grapes','Oranges'];
+    //   for (const i in fruits) {
+    //     document.write(fruits[i],"<br>");
+    //   }  
+
+    // fruits.forEach(element => {
+    //     document.write(element," ");
+    // });
+
+    var student={
+        name:"Ali",
+        email: "ali@gmail.com",
+        phone:1234564,
+        age:()=>{
+            return 20;
+        },
+        food: ['biryani','nihari','pulao'],
+        location:{
+            city:"Karachi",
+            country:"Pakistan",
+        }
+    }
+    // document.write(student.location.country);
+    // document.write(student.food[0]);
+
+    document.getElementById('nam').innerHTML = student.name;
+    document.getElementById('emai').innerHTML = student.email;
+    document.getElementById('ph').innerHTML = student.phone;
+    document.getElementById('ag').innerHTML =student.age();
+    document.getElementById('foo').innerHTML = student.food[0];
+    document.getElementById('city').innerHTML = student.location.city,",";
+    document.getElementById('loc').innerHTML =student.location.country;
+    </script>
+   
+</body>
+</html>
