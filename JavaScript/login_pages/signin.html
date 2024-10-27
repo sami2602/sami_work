@@ -6,7 +6,7 @@
     <title>Document</title>
 </head>
 <body>
-    <form action="">
+    <form >
         <input type="email" name="" id="femail" placeholder="Enter Your email" required>
         <input type="password" name="" id="fpass" placeholder="Enter Your Password" required>
         <button type="submit" onclick="signin()">sign-in</button>
@@ -17,10 +17,10 @@ function signin() {
 var email = document.getElementById('femail').value; 
 var pass = document.getElementById('fpass').value;
  var local_email=localStorage.getItem('email');
- var local_pass=localStorage.getItem('pass');
+ var local_pass=localStorage.getItem('password');
 if (email != "" && pass != "") {
     if (email == local_email && pass == local_pass){
-window.location.href = '';
+window.location.href = 'index.html'
  alert("Login Successful");
 } else {
 alert("Login Failed");
