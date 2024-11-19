@@ -4,8 +4,36 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js" integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo=" crossorigin="anonymous"></script>
 </head>
 <body>
-    
+    <div>
+        <h1>JQuerry Intro!!</h1>
+    </div>
+
+<button id="hidebtn">hide</button>
+<button id="showbtn">show</button>
+<button id="togglebtn">toggle</button>
+
+<script>
+    $(document).ready(function(){
+        $("div").css({
+            "border":"2px groove red",
+            "background-color":"lightblue",
+            "padding":"20px",
+            "font-size":"30px",
+        });
+        $("#hidebtn").click(function(){
+            $("div").hide()
+})
+$("#showbtn").click(function(){
+    $("div").show()
+    })
+    $("#togglebtn").click(function(){
+    $("div").toggle()
+    })
+    })
+</script>
+
 </body>
 </html>
