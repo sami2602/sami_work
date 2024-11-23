@@ -14,6 +14,9 @@
 <button id="hidebtn">hide</button>
 <button id="showbtn">show</button>
 <button id="togglebtn">toggle</button>
+<button id="slideup">Slide up</button>
+<button id="slidedown">Slide down</button>
+<button id="slidetoggle">Slide Toggle</button>
 
 <script>
     $(document).ready(function(){
@@ -24,15 +27,32 @@
             "font-size":"30px",
         });
         $("#hidebtn").click(function(){
-            $("div").hide()
+            $("div").hide(3000)
 })
 $("#showbtn").click(function(){
-    $("div").show()
+    $("div").show(3000)
     })
     $("#togglebtn").click(function(){
-    $("div").toggle()
+    $("div").toggle(3000)
     })
     })
+
+     // Slide up functionality
+     $("#slideup").click(function() {
+            $("div").slideUp(3000);
+        });
+
+        // Slide down functionality
+        $("#slidedown").click(function() {
+            $("div").slideDown(3000);
+        });
+
+        // Slide toggle functionality
+        $("#slidetoggle").click(function() {
+            $("div").slideToggle(3000);
+        });
+
+
 </script>
 
 </body>
