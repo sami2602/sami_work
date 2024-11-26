@@ -17,6 +17,10 @@
 <button id="slideup">Slide up</button>
 <button id="slidedown">Slide down</button>
 <button id="slidetoggle">Slide Toggle</button>
+<!-- <button id="keydown">key-down</button>
+<button id="keyup">key-up</button>
+<button id="keypress">key-press</button> -->
+
 
 <script>
     $(document).ready(function(){
@@ -35,7 +39,7 @@ $("#showbtn").click(function(){
     $("#togglebtn").click(function(){
     $("div").toggle(3000)
     })
-    })
+    
 
      // Slide up functionality
      $("#slideup").click(function() {
@@ -45,14 +49,34 @@ $("#showbtn").click(function(){
         // Slide down functionality
         $("#slidedown").click(function() {
             $("div").slideDown(3000);
-        });
+        })
 
         // Slide toggle functionality
         $("#slidetoggle").click(function() {
             $("div").slideToggle(3000);
+        })
+
+        $("body").keyup(function () {
+            $(this).css({
+                "background-color": "white"
+            });
+            
         });
 
-
+        $("body").keydown(function () {
+            $(this).css({
+                "background-color": "yellow"
+            })
+            
+        });
+        $("body").keypress(function () {
+            $(this).css({
+                "background-color": "red"
+            })
+            
+        })
+       
+    })
 </script>
 
 </body>
