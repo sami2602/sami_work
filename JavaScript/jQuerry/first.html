@@ -14,9 +14,18 @@
 <button id="hidebtn">hide</button>
 <button id="showbtn">show</button>
 <button id="togglebtn">toggle</button>
+
+
 <button id="slideup">Slide up</button>
 <button id="slidedown">Slide down</button>
 <button id="slidetoggle">Slide Toggle</button>
+
+
+<button id="fadein">Fade in</button>
+<button id="fadeout">Fade Out</button>
+<button id="fadetoggle">Fade toggle</button>
+<button id="fadeto">Fade to</button>
+
 <!-- <button id="keydown">key-down</button>
 <button id="keyup">key-up</button>
 <button id="keypress">key-press</button> -->
@@ -30,6 +39,9 @@
             "padding":"20px",
             "font-size":"30px",
         });
+
+
+
         $("#hidebtn").click(function(){
             $("div").hide(3000)
 })
@@ -54,27 +66,43 @@ $("#showbtn").click(function(){
         // Slide toggle functionality
         $("#slidetoggle").click(function() {
             $("div").slideToggle(3000);
-        })
-
-        $("body").keyup(function () {
-            $(this).css({
-                "background-color": "purple"
-            });
-            
         });
 
-        $("body").keydown(function () {
-            $(this).css({
-                "background-color": "yellow"
-            })
-            
+        $("#fadein").click(function() {
+            $("div").fadeIn(3000);
         });
-        $("body").keypress(function () {
-            $(this).css({
-                "background-color": "red"
-            })
+
+
+        $("#fadeout").click(function() {
+            $("div").fadeOut(3000);
+        });
+        $("#fadetoggle").click(function() {
+            $("div").fadeToggle(3000);
+        });
+        $("#fadeto").click(function() {
+            $("div").fadeTo(3000,.5);
+        });
+
+
+        // $("body").keyup(function () {
+        //     $(this).css({
+        //         "background-color": "purple"
+        //     });
             
-        })
+        // });
+
+        // $("body").keydown(function () {
+        //     $(this).css({
+        //         "background-color": "yellow"
+        //     })
+            
+        // });
+        // $("body").keypress(function () {
+        //     $(this).css({
+        //         "background-color": "red"
+        //     })
+            
+        // })
        
     })
 </script>
