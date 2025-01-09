@@ -3,15 +3,32 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title></title>
 </head>
 <body>
-   
+
+    <h1>Search Item</h1>
+
+    <label for="item">Enter Item:</label>
+    <input type="text" id="itemInput" placeholder="Enter item name">
+    <button id="searchButton" onclick="searchItem()">Search</button>
     
+    <div id="searchResult"></div>
+
     <script>
-    var fruits=["banana","apple","mango","strawberry"];
-    
+        const items = ['apple', 'banana', 'orange', 'mango', 'grapes'];
+
+        function searchItem() {
+            const item = document.getElementById('itemInput').value.toLowerCase();
+            const resultDiv = document.getElementById('searchResult');
+            
+            if (items.includes(item)) {
+                resultDiv.textContent = `Item '${item}' found!`;
+            } else {
+                resultDiv.textContent = `Item '${item}' not found!`;
+            }
+        }
     </script>
-    
+   
 </body>
 </html>
