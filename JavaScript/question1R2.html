@@ -7,26 +7,21 @@
   <link href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.0/css/bootstrap.min.css" rel="stylesheet">
   <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.0/js/bootstrap.bundle.min.js"></script>
- <style>
-    .form-title{
-        font-size: 24px;
-        text-align: center;
-    }
- </style>
+
 </head>
 <body>
   <div class="form-container">
-    <div class="form-title">Enter Your Details</div>
+    <div class="form-title text-center h1">Enter Your Details</div>
     <form id="loginForm">
       <div class="mb-4">
-        <label for="name" class="form-label">Name</label>
+        <label for="name" class="form-label ps-3">Name</label>
         <input type="text" class="form-control" id="name" placeholder="Enter your name" required>
       </div>
       <div class="mb-4">
-        <label for="email" class="form-label">Gmail</label>
+        <label for="email" class="form-label ps-3">Gmail</label>
         <input type="email" class="form-control" id="email" placeholder="Enter your Gmail" required>
       </div>
-      <button type="submit" class="btn btn-custom w-100">Print</button>
+      <button type="submit" class="btn btn-custom w-100 color bg-success">Print</button>
     </form>
     <div class="output-table" id="outputTable"></div>
   </div>
