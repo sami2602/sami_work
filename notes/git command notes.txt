@@ -1,0 +1,47 @@
+
+Administrator@LAB1-PC03 MINGW64 ~/Desktop/html.pk (master)
+$ git config --global user.name "sami2602"                 insert git username
+
+Administrator@LAB1-PC03 MINGW64 ~/Desktop/html.pk (master)
+$ git config --global user.email "sami2407f@aptechsite.net"     insert git email
+
+Administrator@LAB1-PC03 MINGW64 ~/Desktop/html.pk (master)
+$ git config --global user.name                              checking username is correct
+sami2602
+
+Administrator@LAB1-PC03 MINGW64 ~/Desktop/html.pk (master)
+$ git config --global user.email                           checking user email is correct
+sami2407f@aptechsite.net
+
+Administrator@LAB1-PC03 MINGW64 ~/Desktop/html.pk (master)        creat css folder
+$ mkdir css 
+
+Administrator@LAB1-PC03 MINGW64 ~/Desktop/html.pk (master)        creat js folder
+$ mkdir js
+
+Administrator@LAB1-PC03 MINGW64 ~/Desktop/html.pk (master)        imagfes folder creat
+$ mkdir images
+
+Administrator@LAB1-PC03 MINGW64 ~/Desktop/html.pk (master)        create file gallery.html
+$ touch gallery.html
+
+Administrator@LAB1-PC03 MINGW64 ~/Desktop/html.pk (master)        enter in css folder
+$ cd css
+
+Administrator@LAB1-PC03 MINGW64 ~/Desktop/html.pk/css (master)       create file in css folder style.css
+$ touch style.css
+
+Administrator@LAB1-PC03 MINGW64 ~/Desktop/html.pk/css (master)     exit from css folder
+$ cd ..
+
+Administrator@LAB1-PC03 MINGW64 ~/Desktop/html.pk (master)          enter in js folder
+$ cd js
+
+Administrator@LAB1-PC03 MINGW64 ~/Desktop/html.pk/js (master) create file in js folder script.js
+$ touch script.js
+
+Administrator@LAB1-PC03 MINGW64 ~/Desktop/html.pk/js (master)     exit from js folder
+$ cd ..
+
+
+
