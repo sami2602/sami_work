@@ -45,3 +45,66 @@ $ cd ..
 
 
 
+Administrator@LAB1-PC03 MINGW64 ~/Desktop/html.pk (master)            initialize .git
+$ git init
+Initialized empty Git repository in C:/Users/Administrator/Desktop/html.pk/.git/
+
+Administrator@LAB1-PC03 MINGW64 ~/Desktop/html.pk (master)           add in git folder
+$ git add .
+
+Administrator@LAB1-PC03 MINGW64 ~/Desktop/html.pk (master)      to check status git folder
+$ git status
+On branch master
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+        new file:   css/style.css
+        new file:   gallery.html
+        new file:   index.html
+        new file:   js/script.js
+
+
+Administrator@LAB1-PC03 MINGW64 ~/Desktop/html.pk (master)     to commit folder
+$ git commit -m "hello"
+[master (root-commit) 050c27d] hello
+ 4 files changed, 20 insertions(+)
+ create mode 100644 css/style.css
+ create mode 100644 gallery.html
+ create mode 100644 index.html
+ create mode 100644 js/script.js
+
+Administrator@LAB1-PC03 MINGW64 ~/Desktop/html.pk (master)           link origin
+$ git remote add origin https://github.com/sami2602/gitfirstclass.git
+
+Administrator@LAB1-PC03 MINGW64 ~/Desktop/html.pk (master)
+$ git push -u origin main
+error: src refspec main does not match any
+error: failed to push some refs to 'https://github.com/sami2602/gitfirstclass.git'
+
+Administrator@LAB1-PC03 MINGW64 ~/Desktop/html.pk (master)
+$ git push -u origin master
+remote: Permission to sami2602/gitfirstclass.git denied to muneeb2408e.
+fatal: unable to access 'https://github.com/sami2602/gitfirstclass.git/': The requested URL returned error: 403
+
+Administrator@LAB1-PC03 MINGW64 ~/Desktop/html.pk (master)    credential issue
+$ git push -u origin master
+remote: Permission to sami2602/gitfirstclass.git denied to muneeb2408e.
+fatal: unable to access 'https://github.com/sami2602/gitfirstclass.git/': The requested URL returned error: 403
+
+Administrator@LAB1-PC03 MINGW64 ~/Desktop/html.pk (master)        push
+$ git push -u origin master
+Enumerating objects: 6, done.
+Counting objects: 100% (6/6), done.
+Delta compression using up to 4 threads
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (6/6), 899 bytes | 899.00 KiB/s, done.
+Total 6 (delta 0), reused 0 (delta 0), pack-reused 0
+To https://github.com/sami2602/gitfirstclass.git
+ * [new branch]      master -> master
+branch 'master' set up to track 'origin/master'.
+
+
+
+
