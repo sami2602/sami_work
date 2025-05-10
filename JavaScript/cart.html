@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+    .con{
+        width: 300px;
+        min-height: 60px;
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        background-color: cadetblue;
+        font-size: 40px;
+        font-weight: 900;
+        border-radius: 20px;
+        margin: 100px;
+    }
+    .con2
+    {
+        width: 300px;
+        min-height: 60px;
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        background-color: rgb(50, 125, 128);
+        font-size: 40px;
+        font-weight: 900;
+        border-radius: 20px;
+        margin: 100px; 
+    }
+    </style>
+</head>
+<body>
+    <div class="con">
+        <div id="mins">-</div>
+        <div id="num">0</div>
+        <div id="plus">+</div>
+    </div>
+    <div class="con2">
+    <div id="price">price</div>
+    <div id="inc">00</div>
+    </div>
+    <Script>
+        var mins=document.getElementById('mins');
+        var num=document.getElementById('num');
+        var plus=document.getElementById('plus');
+        var inc=document.getElementById('inc')
+        var a=0;
+        var p=2500;
+       if (a>=0) {
+        mins.addEventListener('click', function()
+        {
+            a--;
+            num.textContent=a;
+            inc.textContent=a*p;
+        })
+
+       }
+        else if(a<0){
+        alert("please add items");
+       }
+       
+        plus.addEventListener('click',function()
+        {
+            a++;
+            num.textContent=a;
+            inc.textContent=a*p;
+        })
+
+      
+    </Script>
+</body>
+</html>
