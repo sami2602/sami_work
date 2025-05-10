@@ -108,3 +108,18 @@ select * from new_emp where name like 's%n';
 select * from new_emp where name like '_a%';
 select * from new_emp where name like '____a%';
 select * from new_emp where name like '_al%';
+
+select MAX(salary) FROM new_emp;
+select MIN(salary) FROM new_emp;
+select sum(salary) AS employee FROM new_emp;
+select AVG(salary) FROM new_emp;
+
+
+SELECT * FROM new_emp ORDER BY salary;
+SELECT * FROM new_emp ORDER BY salary DESC;
+SELECT * FROM new_emp WHERE Name="salman" ORDER BY salary DESC;
+SELECT * FROM new_emp ORDER BY name, salary;
+SELECT DISTINCT salary FROM new_emp;
+SELECT DISTINCT salary FROM new_emp ORDER BY name;
+
+select*from new_emp order by id desc limit 2; 
