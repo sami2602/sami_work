@@ -85,10 +85,48 @@ $op = "/";
 //     echo $i . " ". "i love PHP" . "<br>";
 // }
 
-$a= 1;
-while ($a <= 10) {
-    echo $a . " ". "i love PHP" . "<br>";
-    $a++;
-}
+// $a= 1;
+// while ($a <= 10) {
+//     echo $a . " ". "i love PHP" . "<br>";
+//     $a++;
+// }
 
+
+
+
+// $num=5;
+// for ($i=1; $i<=10 ; $i++) { 
+//     echo $num ."*". $i."=" .$num*$i."<br>";
+// }
+
+
+
+// do while loop
+// $a=1;
+// do {
+//     $a++;
+//     echo"Hello World"."<br>";
+// } while ($a <= 10);
+
+
+
+// array
+$fruits=["Banana","Mango","Pineapple"];
+// echo $fruits[0];    only one fruit name print
+// print_r($fruits);      without arranged
+// echo "<pre>";            //arranged value     
+// print_r($fruits);
+// echo "</pre>";
+
+
+
+
+foreach ($fruits as  $values ) {
+    echo $values."<br>";
+}
 ?>
+
+
+
+
+
