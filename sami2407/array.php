@@ -72,5 +72,11 @@ foreach ($student as $key => $value) {
 }
 
 
+$student=["Ali", "Zain", "Hasan"];
+rsort($student);
+
+foreach ($student as $key ) {
+    echo $key . " " . "<br>";
+}
 
 ?>

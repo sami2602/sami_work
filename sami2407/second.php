@@ -124,6 +124,9 @@ $fruits=["Banana","Mango","Pineapple"];
 foreach ($fruits as  $values ) {
     echo $values."<br>";
 }
+
+
+
 ?>
 
 
