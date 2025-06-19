@@ -6,11 +6,9 @@
     <title>Document</title>
 </head>
 <body>
-
-<!-- you need to run first form.php file -->
-    
-<p> Hello <?php echo $_POST['u_name']?> ! </p>
-<p> Your Email is <?php echo $_POST['u_email']?> ! </p>
-
+    <form action="getwelcome.php" method="GET">
+    <input type="text" name="firstname" id="">
+    <input type="submit" value="Submit">
+    </form>
 </body>
-</html> 
+</html>
