@@ -15,7 +15,6 @@
     </form>
 </body>
 </html>
-
 <?php
 
 include("connect.php");
@@ -26,18 +25,19 @@ if (isset($_POST['btn'])) {
     $email = $_POST['email'];
     $address =$_POST['address'];
 
-    $_insert = "INSERT INTO `aptechsite`( `name`, `contact`, `email`, `address`) VALUES ("$name",$contact,$email,$address)";
+    $_insert = "INSERT INTO `aptechsite`( `name`, `contact`, `email`, `address`) VALUES ('$name','$contact','$email','$address')";
 
     $run =mysqli_query ($con,$_insert);
 
     if ($run) {
-        echo "Data Inserted";
+        // echo "Data Inserted";
+
+        echo"<script>window.location.href='view.php'</script>";
     }
     else {
         echo "Data Not Inserted";
     }
 
-
-
 }
+
 ?>
