@@ -34,6 +34,8 @@ while($row= mysqli_fetch_assoc($run)){?>
     <td><?php echo $row['contact'] ?></td>
     <td><?php echo $row['email'] ?></td>
     <td><?php echo $row['address'] ?></td>
+    <td><a href="update.php?updateID=<?php echo $row['id'] ?>">Update</a></td>
+    <td><a href="delete.php?deleteID=<?php echo $row['id'] ?>">Delete</a></td>
 </tr>
 
 <?php
