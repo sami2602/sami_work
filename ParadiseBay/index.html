@@ -1,0 +1,411 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Paradise Bay Resort - Tropical Getaway</title>
+    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.4.0/css/all.min.css">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&family=Dancing+Script:wght@400;700&display=swap" rel="stylesheet">
+    <style>
+        body {
+            font-family: 'Poppins', sans-serif;
+        }
+        .hero-bg {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+        }
+        .tropical-gradient {
+            background: linear-gradient(45deg, #FF6B6B, #4ECDC4, #45B7D1, #96CEB4);
+            background-size: 400% 400%;
+            animation: gradientShift 8s ease infinite;
+        }
+        @keyframes gradientShift {
+            0% { background-position: 0% 50%; }
+            50% { background-position: 100% 50%; }
+            100% { background-position: 0% 50%; }
+        }
+        .card-hover {
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+        }
+        .card-hover:hover {
+            transform: translateY(-10px);
+            box-shadow: 0 20px 40px rgba(0,0,0,0.1);
+        }
+        .ocean-wave {
+            background: linear-gradient(120deg, #a8edea 0%, #fed6e3 100%);
+        }
+        .palm-shadow {
+            text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
+        }
+        .floating {
+            animation: floating 3s ease-in-out infinite;
+        }
+        @keyframes floating {
+            0% { transform: translateY(0px); }
+            50% { transform: translateY(-20px); }
+            100% { transform: translateY(0px); }
+        }
+        .room-card {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 50%, #FF6B6B 100%);
+            border-radius: 20px;
+            overflow: hidden;
+        }
+        .amenity-card {
+            background: linear-gradient(45deg, #4ECDC4, #44A08D);
+        }
+    </style>
+</head>
+<body class="bg-gray-50">
+
+    <!-- Navigation -->
+    <nav class="fixed w-full z-50 bg-white bg-opacity-95 backdrop-blur-sm shadow-lg">
+        <div class="container mx-auto px-6 py-3">
+            <div class="flex justify-between items-center">
+                <div class="flex items-center space-x-2">
+                    <i class="fas fa-umbrella-beach text-3xl text-blue-500"></i>
+                    <span class="text-2xl font-bold text-gray-800" style="font-family: 'Dancing Script', cursive;">Paradise Bay Resort</span>
+                </div>
+                <div class="hidden md:flex space-x-8">
+                    <a href="#home" class="text-gray-700 hover:text-blue-500 transition duration-300">Home</a>
+                    <a href="#rooms" class="text-gray-700 hover:text-blue-500 transition duration-300">Rooms</a>
+                    <a href="#amenities" class="text-gray-700 hover:text-blue-500 transition duration-300">Amenities</a>
+                    <a href="#contact" class="text-gray-700 hover:text-blue-500 transition duration-300">Contact</a>
+                </div>
+                <button class="bg-gradient-to-r from-blue-500 to-purple-600 text-white px-6 py-2 rounded-full hover:shadow-lg transition duration-300">
+                    Book Now
+                </button>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Hero Section -->
+    <section id="home" class="hero-bg min-h-screen flex items-center justify-center relative overflow-hidden">
+        <div class="absolute inset-0 tropical-gradient opacity-80"></div>
+        <div class="relative z-10 text-center text-white px-6">
+            <div class="floating">
+                <i class="fas fa-sun text-6xl mb-6 text-yellow-300"></i>
+            </div>
+            <h1 class="text-5xl md:text-7xl font-bold mb-6 palm-shadow" style="font-family: 'Dancing Script', cursive;">
+                Welcome to Paradise
+            </h1>
+            <p class="text-xl md:text-2xl mb-8 max-w-3xl mx-auto opacity-90">
+                Escape to our tropical oasis where crystal-clear waters meet pristine beaches, and luxury meets tranquility
+            </p>
+            <div class="space-x-4">
+                <button class="bg-white text-blue-600 px-8 py-4 rounded-full font-semibold hover:bg-opacity-90 transition duration-300 shadow-2xl">
+                    <i class="fas fa-calendar-check mr-2"></i>Reserve Your Stay
+                </button>
+                <button class="border-2 border-white text-white px-8 py-4 rounded-full font-semibold hover:bg-white hover:text-blue-600 transition duration-300">
+                    <i class="fas fa-play mr-2"></i>Virtual Tour
+                </button>
+            </div>
+        </div>
+        
+        <!-- Floating Icons -->
+        <div class="absolute top-20 left-10 floating text-white opacity-30">
+            <i class="fas fa-palm-tree text-4xl"></i>
+        </div>
+        <div class="absolute bottom-20 right-10 floating text-white opacity-30" style="animation-delay: -1s;">
+            <i class="fas fa-fish text-3xl"></i>
+        </div>
+        <div class="absolute top-40 right-20 floating text-white opacity-30" style="animation-delay: -2s;">
+            <i class="fas fa-cocktail text-3xl"></i>
+        </div>
+    </section>
+
+    <!-- Rooms Section -->
+    <section id="rooms" class="py-20 bg-gradient-to-b from-blue-50 to-white">
+        <div class="container mx-auto px-6">
+            <div class="text-center mb-16">
+                <h2 class="text-4xl md:text-5xl font-bold text-gray-800 mb-4" style="font-family: 'Dancing Script', cursive;">
+                    Luxury Accommodations
+                </h2>
+                <p class="text-xl text-gray-600 max-w-2xl mx-auto">
+                    Choose from our selection of beautifully appointed rooms and suites, each offering breathtaking ocean views
+                </p>
+            </div>
+
+            <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
+                <!-- Ocean View Suite -->
+                <div class="card-hover">
+                    <div class="room-card h-80 relative overflow-hidden">
+                        <div class="absolute inset-0 bg-black bg-opacity-20 flex items-end">
+                            <div class="p-6 text-white">
+                                <div class="flex items-center mb-2">
+                                    <i class="fas fa-star text-yellow-400 mr-1"></i>
+                                    <i class="fas fa-star text-yellow-400 mr-1"></i>
+                                    <i class="fas fa-star text-yellow-400 mr-1"></i>
+                                    <i class="fas fa-star text-yellow-400 mr-1"></i>
+                                    <i class="fas fa-star text-yellow-400"></i>
+                                </div>
+                                <h3 class="text-2xl font-bold mb-2">Ocean View Suite</h3>
+                                <p class="text-sm opacity-90 mb-3">Spacious suite with panoramic ocean views and private balcony</p>
+                                <div class="text-2xl font-bold">$299<span class="text-sm font-normal">/night</span></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Beach Villa -->
+                <div class="card-hover">
+                    <div class="bg-gradient-to-br from-green-400 to-blue-500 h-80 relative overflow-hidden rounded-lg">
+                        <div class="absolute inset-0 bg-black bg-opacity-20 flex items-end">
+                            <div class="p-6 text-white">
+                                <div class="flex items-center mb-2">
+                                    <i class="fas fa-star text-yellow-400 mr-1"></i>
+                                    <i class="fas fa-star text-yellow-400 mr-1"></i>
+                                    <i class="fas fa-star text-yellow-400 mr-1"></i>
+                                    <i class="fas fa-star text-yellow-400 mr-1"></i>
+                                    <i class="fas fa-star text-yellow-400"></i>
+                                </div>
+                                <h3 class="text-2xl font-bold mb-2">Beach Villa</h3>
+                                <p class="text-sm opacity-90 mb-3">Private villa steps away from pristine white sand beach</p>
+                                <div class="text-2xl font-bold">$499<span class="text-sm font-normal">/night</span></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Sunset Penthouse -->
+                <div class="card-hover">
+                    <div class="bg-gradient-to-br from-purple-500 to-pink-500 h-80 relative overflow-hidden rounded-lg">
+                        <div class="absolute inset-0 bg-black bg-opacity-20 flex items-end">
+                            <div class="p-6 text-white">
+                                <div class="flex items-center mb-2">
+                                    <i class="fas fa-star text-yellow-400 mr-1"></i>
+                                    <i class="fas fa-star text-yellow-400 mr-1"></i>
+                                    <i class="fas fa-star text-yellow-400 mr-1"></i>
+                                    <i class="fas fa-star text-yellow-400 mr-1"></i>
+                                    <i class="fas fa-star text-yellow-400"></i>
+                                </div>
+                                <h3 class="text-2xl font-bold mb-2">Sunset Penthouse</h3>
+                                <p class="text-sm opacity-90 mb-3">Ultimate luxury with 360° views and private infinity pool</p>
+                                <div class="text-2xl font-bold">$799<span class="text-sm font-normal">/night</span></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Amenities Section -->
+    <section id="amenities" class="py-20 ocean-wave">
+        <div class="container mx-auto px-6">
+            <div class="text-center mb-16">
+                <h2 class="text-4xl md:text-5xl font-bold text-gray-800 mb-4" style="font-family: 'Dancing Script', cursive;">
+                    Resort Amenities
+                </h2>
+                <p class="text-xl text-gray-600 max-w-2xl mx-auto">
+                    Indulge in world-class facilities designed to make your stay unforgettable
+                </p>
+            </div>
+
+            <div class="grid md:grid-cols-2 lg:grid-cols-4 gap-6">
+                <!-- Spa & Wellness -->
+                <div class="amenity-card rounded-xl p-8 text-white text-center card-hover">
+                    <i class="fas fa-spa text-5xl mb-6"></i>
+                    <h3 class="text-xl font-bold mb-3">Spa & Wellness</h3>
+                    <p class="text-sm opacity-90">Rejuvenate your mind and body with our premium spa treatments</p>
+                </div>
+
+                <!-- Fine Dining -->
+                <div class="bg-gradient-to-br from-orange-400 to-red-500 rounded-xl p-8 text-white text-center card-hover">
+                    <i class="fas fa-utensils text-5xl mb-6"></i>
+                    <h3 class="text-xl font-bold mb-3">Fine Dining</h3>
+                    <p class="text-sm opacity-90">Savor exquisite cuisine prepared by world-renowned chefs</p>
+                </div>
+
+                <!-- Water Sports -->
+                <div class="bg-gradient-to-br from-blue-400 to-cyan-500 rounded-xl p-8 text-white text-center card-hover">
+                    <i class="fas fa-swimmer text-5xl mb-6"></i>
+                    <h3 class="text-xl font-bold mb-3">Water Sports</h3>
+                    <p class="text-sm opacity-90">Dive into adventure with snorkeling, kayaking, and more</p>
+                </div>
+
+                <!-- Fitness Center -->
+                <div class="bg-gradient-to-br from-purple-400 to-indigo-500 rounded-xl p-8 text-white text-center card-hover">
+                    <i class="fas fa-dumbbell text-5xl mb-6"></i>
+                    <h3 class="text-xl font-bold mb-3">Fitness Center</h3>
+                    <p class="text-sm opacity-90">Stay active with state-of-the-art equipment and classes</p>
+                </div>
+            </div>
+
+            <!-- Additional Features -->
+            <div class="mt-16 grid md:grid-cols-3 gap-8">
+                <div class="bg-white rounded-xl p-6 shadow-lg text-center">
+                    <i class="fas fa-cocktail text-4xl text-pink-500 mb-4"></i>
+                    <h4 class="text-lg font-bold text-gray-800 mb-2">Pool Bar</h4>
+                    <p class="text-gray-600">Tropical cocktails served at our infinity pool</p>
+                </div>
+                
+                <div class="bg-white rounded-xl p-6 shadow-lg text-center">
+                    <i class="fas fa-wifi text-4xl text-blue-500 mb-4"></i>
+                    <h4 class="text-lg font-bold text-gray-800 mb-2">Free WiFi</h4>
+                    <p class="text-gray-600">High-speed internet throughout the resort</p>
+                </div>
+                
+                <div class="bg-white rounded-xl p-6 shadow-lg text-center">
+                    <i class="fas fa-concierge-bell text-4xl text-yellow-500 mb-4"></i>
+                    <h4 class="text-lg font-bold text-gray-800 mb-2">24/7 Concierge</h4>
+                    <p class="text-gray-600">Personalized service to fulfill your every need</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Contact Section -->
+    <section id="contact" class="py-20 bg-gradient-to-b from-gray-900 to-blue-900 text-white">
+        <div class="container mx-auto px-6">
+            <div class="text-center mb-16">
+                <h2 class="text-4xl md:text-5xl font-bold mb-4" style="font-family: 'Dancing Script', cursive;">
+                    Contact Paradise Bay
+                </h2>
+                <p class="text-xl opacity-90 max-w-2xl mx-auto">
+                    Ready to escape to paradise? Get in touch with us to plan your perfect getaway
+                </p>
+            </div>
+
+            <div class="grid md:grid-cols-2 gap-12">
+                <!-- Contact Information -->
+                <div class="space-y-8">
+                    <div class="flex items-center space-x-4">
+                        <div class="bg-blue-500 p-4 rounded-full">
+                            <i class="fas fa-map-marker-alt text-xl"></i>
+                        </div>
+                        <div>
+                            <h3 class="text-xl font-bold mb-2">Location</h3>
+                            <p class="opacity-90">123 Paradise Bay, Tropical Island<br>Crystal Waters, PC 12345</p>
+                        </div>
+                    </div>
+
+                    <div class="flex items-center space-x-4">
+                        <div class="bg-green-500 p-4 rounded-full">
+                            <i class="fas fa-phone text-xl"></i>
+                        </div>
+                        <div>
+                            <h3 class="text-xl font-bold mb-2">Phone</h3>
+                            <p class="opacity-90">+1 (555) PARADISE<br>+1 (555) 727-2347</p>
+                        </div>
+                    </div>
+
+                    <div class="flex items-center space-x-4">
+                        <div class="bg-purple-500 p-4 rounded-full">
+                            <i class="fas fa-envelope text-xl"></i>
+                        </div>
+                        <div>
+                            <h3 class="text-xl font-bold mb-2">Email</h3>
+                            <p class="opacity-90">reservations@paradisebay.com<br>info@paradisebay.com</p>
+                        </div>
+                    </div>
+
+                    <div class="flex space-x-4 mt-8">
+                        <a href="#" class="bg-blue-600 p-3 rounded-full hover:bg-blue-700 transition duration-300">
+                            <i class="fab fa-facebook-f"></i>
+                        </a>
+                        <a href="#" class="bg-pink-600 p-3 rounded-full hover:bg-pink-700 transition duration-300">
+                            <i class="fab fa-instagram"></i>
+                        </a>
+                        <a href="#" class="bg-blue-400 p-3 rounded-full hover:bg-blue-500 transition duration-300">
+                            <i class="fab fa-twitter"></i>
+                        </a>
+                        <a href="#" class="bg-red-600 p-3 rounded-full hover:bg-red-700 transition duration-300">
+                            <i class="fab fa-youtube"></i>
+                        </a>
+                    </div>
+                </div>
+
+                <!-- Contact Form -->
+                <div class="bg-white bg-opacity-10 backdrop-blur-sm rounded-xl p-8">
+                    <form class="space-y-6">
+                        <div class="grid md:grid-cols-2 gap-4">
+                            <input type="text" placeholder="First Name" class="w-full p-3 bg-white bg-opacity-20 border border-white border-opacity-30 rounded-lg text-white placeholder-gray-300 focus:outline-none focus:ring-2 focus:ring-blue-500">
+                            <input type="text" placeholder="Last Name" class="w-full p-3 bg-white bg-opacity-20 border border-white border-opacity-30 rounded-lg text-white placeholder-gray-300 focus:outline-none focus:ring-2 focus:ring-blue-500">
+                        </div>
+                        
+                        <input type="email" placeholder="Email Address" class="w-full p-3 bg-white bg-opacity-20 border border-white border-opacity-30 rounded-lg text-white placeholder-gray-300 focus:outline-none focus:ring-2 focus:ring-blue-500">
+                        
+                        <div class="grid md:grid-cols-2 gap-4">
+                            <input type="date" class="w-full p-3 bg-white bg-opacity-20 border border-white border-opacity-30 rounded-lg text-white focus:outline-none focus:ring-2 focus:ring-blue-500">
+                            <input type="date" class="w-full p-3 bg-white bg-opacity-20 border border-white border-opacity-30 rounded-lg text-white focus:outline-none focus:ring-2 focus:ring-blue-500">
+                        </div>
+                        
+                        <textarea placeholder="Special Requests or Questions" rows="4" class="w-full p-3 bg-white bg-opacity-20 border border-white border-opacity-30 rounded-lg text-white placeholder-gray-300 focus:outline-none focus:ring-2 focus:ring-blue-500"></textarea>
+                        
+                        <button type="submit" class="w-full bg-gradient-to-r from-blue-500 to-purple-600 text-white py-3 rounded-lg font-semibold hover:shadow-lg transition duration-300">
+                            <i class="fas fa-paper-plane mr-2"></i>Send Inquiry
+                        </button>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="bg-gray-900 text-white py-12">
+        <div class="container mx-auto px-6">
+            <div class="text-center">
+                <div class="flex items-center justify-center space-x-2 mb-4">
+                    <i class="fas fa-umbrella-beach text-3xl text-blue-500"></i>
+                    <span class="text-3xl font-bold" style="font-family: 'Dancing Script', cursive;">Paradise Bay Resort</span>
+                </div>
+                <p class="text-gray-400 mb-6">Where every sunset paints a new beginning</p>
+                <div class="border-t border-gray-800 pt-6">
+                    <p class="text-gray-500">&copy; 2024 Paradise Bay Resort. All rights reserved. | Privacy Policy | Terms of Service</p>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <script>
+        // Smooth scrolling for navigation links
+        document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+            anchor.addEventListener('click', function (e) {
+                e.preventDefault();
+                const target = document.querySelector(this.getAttribute('href'));
+                if (target) {
+                    target.scrollIntoView({
+                        behavior: 'smooth',
+                        block: 'start'
+                    });
+                }
+            });
+        });
+
+        // Add scroll effect to navigation
+        window.addEventListener('scroll', function() {
+            const nav = document.querySelector('nav');
+            if (window.scrollY > 100) {
+                nav.classList.add('bg-white');
+                nav.classList.remove('bg-opacity-95');
+            } else {
+                nav.classList.remove('bg-white');
+                nav.classList.add('bg-opacity-95');
+            }
+        });
+
+        // Add intersection observer for animations
+        const observerOptions = {
+            threshold: 0.1,
+            rootMargin: '0px 0px -50px 0px'
+        };
+
+        const observer = new IntersectionObserver((entries) => {
+            entries.forEach(entry => {
+                if (entry.isIntersecting) {
+                    entry.target.style.opacity = '1';
+                    entry.target.style.transform = 'translateY(0)';
+                }
+            });
+        }, observerOptions);
+
+        // Observe all cards for animation
+        document.querySelectorAll('.card-hover').forEach(card => {
+            card.style.opacity = '0';
+            card.style.transform = 'translateY(20px)';
+            card.style.transition = 'opacity 0.6s ease, transform 0.6s ease';
+            observer.observe(card);
+        });
+    </script>
+</body>
+</html>
