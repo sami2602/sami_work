@@ -1,0 +1,324 @@
+body {
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  letter-spacing: 0.5px;
+}
+
+.navbar p {
+  margin-top: 6px;
+  margin-bottom: 6px;
+  margin-left: 30px;
+  color: white;
+  font-size: 17px;
+}
+
+.navbar-brand img {
+  margin-left: 40px;
+}
+.navbar-collapse{
+  margin-right: 40px;
+}
+.login-register-btn {
+  margin-left: 43.5%;
+  font-size: 20px;
+  text-decoration: none;
+}
+
+.login-register-btn :hover {
+  color: #ffffff;
+}
+
+.cart-btn {
+  margin-right: 7%;
+  font-size: 25px;
+}
+
+.cart-btn :hover {
+  color: #fdfdfd;
+
+}
+
+.carousel-caption {
+  background-color: rgba(52, 5, 78, 0.500);
+  padding: 200px 150px;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  color: #fff;
+}
+
+.carousel-caption p h5 {
+margin-top: 60%;
+  text-align: center;
+}
+
+.carousel-indicators {
+  bottom: 0;
+}
+
+.center_home .carousel-indicators [data-bs-target] {
+  background-color: rgba(255, 255, 255, 0.479);
+}
+
+@media screen and (max-width : 767px) {
+  .center_home img {
+    min-height: 350px;
+  }
+
+  .carousel-caption {
+    text-align: center;
+    left: 0;
+    width: 100%;
+    bottom: 0;
+    padding: 10px;
+  }
+
+  .carousel-caption .font_60 {
+    font-size: 28px;
+  }
+
+  .carousel-caption h4 {
+    font-size: 20px;
+  }
+
+  .carousel-caption p {
+    font-size: 14px;
+    text-align: left;
+    width: 100%;
+  }
+}
+
+@media (min-width:768px) and (max-width:991px) {
+  .center_home img {
+    min-height: 500px;
+  }
+
+  .carousel-caption .font_60 {
+    font-size: 45px;
+  }
+
+  .carousel-caption {
+    padding: 100px 100px;
+  }
+
+  .carousel-caption p {
+    width: 60%;
+  }
+
+
+}
+
+@media (min-width:992px) and (max-width:1200px) {
+  .carousel-caption {
+    padding: 100px 100px;
+  }
+
+  .center_home img {
+    min-height: 550px;
+  }
+
+}
+
+@media (min-width:1201px) and (max-width:1255px) {}
+
+.box-heading {
+  margin-bottom: 10px;
+  font-size: 20px;
+  font-family: 'Trebuchet MS', Arial, Helvetica, sans-serif;
+  color: #000;
+  text-align: center;
+  text-transform: uppercase;
+  padding-top: 15px;
+}
+
+#back-to-top {
+  display: none;
+  position: fixed;
+  bottom: 20px;
+  right: 30px;
+  z-index: 99;
+  border: none;
+  outline: none;
+  background-color: #542999fd;
+  color: white;
+  cursor: pointer;
+  padding: 15px;
+  border-radius: 10px;
+  font-size: 18px;
+}
+
+#back-to-top:hover {
+  background-color: #542999d0;
+}
+
+.cookie-banner {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  background-color: white;
+  box-shadow: 0px -2px 5px rgba(0, 0, 0, 0.1);
+  padding: 15px 10px;
+  text-align: center;
+  z-index: 1000;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.cookie-banner p {
+  margin: 0;
+  flex: 1;
+}
+
+.cookie-banner a {
+  color: black;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.cookie-banner button {
+  background-color: #542999fd;
+  border: none;
+  color: white;
+  padding: 10px 20px;
+  cursor: pointer;
+  font-size: 14px;
+  margin-top: 10px;
+}
+
+.cookie-banner button:hover {
+  background-color: #542999e3;
+  color: white;
+  font-size: 14px;
+}
+
+@media (min-width: 600px) {
+  .cookie-banner {
+    flex-direction: row;
+    justify-content: space-between;
+  }
+
+  .cookie-banner button {
+    margin-top: 0;
+    margin-left: 20px;
+  }
+}
+
+
+/* Center-align the entire content */
+ .container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+} 
+
+/* Style the tab container to center-align tabs */
+.tab {
+  display: flex;
+  justify-content: center;
+  border-bottom: 1px solid #ccc;
+  margin-bottom: 20px; /* Optional: Add margin to separate tabs from content */
+}
+
+.tab button {
+  background-color: #f2f2f2;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  padding: 10px 15px;
+  transition: background-color 0.3s;
+  margin: 0 10px; /* Adjust margin as needed */
+}
+
+.tab button:hover {
+  background-color:  #542999d0;
+}
+
+.tab button.active {
+  background-color:#542999d0;
+}
+
+/* Style the image grid */
+.image-grid {
+  margin-left: 15%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center; /* Center-align items inside the image grid */
+  max-width: 1100px; /* Optional: Set max-width to control the width of the image grid */
+}
+
+.image {
+  position: relative; /* Ensure position context for absolute overlay */
+  width: 265px;
+  height: 265px;
+  margin: 10px;
+  overflow: hidden;
+}
+
+.image img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: transform 0.3s ease; /* Smooth transition for transform */
+}
+
+.image:hover img {
+  transform: scale(1.1); /* Scale up the image on hover */
+}
+
+.image .overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5); /* Semi-transparent black overlay */
+  opacity: 0; /* Hidden by default */
+  transition: opacity 0.3s ease; /* Smooth transition for opacity */
+}
+
+.image:hover .overlay {
+  opacity: 1; /* Show overlay on hover */
+}
+
+.image .overlay-content {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+  color: white;
+  opacity: 0; /* Hidden by default */
+  transition: opacity 0.3s ease; /* Smooth transition for opacity */
+}
+
+.image:hover .overlay-content {
+  opacity: 1; /* Show overlay content on hover */
+}
+
+/* Hide tab content by default */
+.tabcontent {
+  display: none;
+}
+
+/* Show the active tab */
+.tabcontent.active {
+  display: block;
+}
+
+.footer-tab p{
+  font-size: 17px;
+  text-decoration: none;
+}
+.footer-tab p a{
+color:#542999 ;
+}
+.footer-tab p a:hover{
+  color: #542999d0;
+}
+
+
