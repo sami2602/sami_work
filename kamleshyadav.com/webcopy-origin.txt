@@ -1,0 +1,800 @@
+Uri: https://dummyimage.com/368x395
+File Name: C:\kamleshyadav.com\368x395
+Content Type: image/png
+
+Uri: https://kamleshyadav.com/html/miraculous/html/Bootstrap5/version1/add_playlist.html
+File Name: C:\kamleshyadav.com\html\miraculous\html\Bootstrap5\version1\add_playlist.html
+Content Type: text/html
+
+Uri: https://kamleshyadav.com/html/miraculous/html/Bootstrap5/version1/album.html
+File Name: C:\kamleshyadav.com\html\miraculous\html\Bootstrap5\version1\album.html
+Content Type: text/html
+
+Uri: https://kamleshyadav.com/html/miraculous/html/Bootstrap5/version1/album_single.html
+File Name: C:\kamleshyadav.com\html\miraculous\html\Bootstrap5\version1\album_single.html
+Content Type: text/html
+
+Uri: https://kamleshyadav.com/html/miraculous/html/Bootstrap5/version1/artist.html
+File Name: C:\kamleshyadav.com\html\miraculous\html\Bootstrap5\version1\artist.html
+Content Type: text/html
+
+Uri: https://kamleshyadav.com/html/miraculous/html/Bootstrap5/version1/artist_single.html
+File Name: C:\kamleshyadav.com\html\miraculous\html\Bootstrap5\version1\artist_single.html
+Content Type: text/html
+
+Uri: https://kamleshyadav.com/html/miraculous/html/Bootstrap5/version1/assets/css/bootstrap.min.css
+File Name: C:\kamleshyadav.com\html\miraculous\html\Bootstrap5\version1\assets\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://kamleshyadav.com/html/miraculous/html/Bootstrap5/version1/assets/css/font-awesome.min.css
+File Name: C:\kamleshyadav.com\html\miraculous\html\Bootstrap5\version1\assets\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://kamleshyadav.com/html/miraculous/html/Bootstrap5/version1/assets/css/fonts.css
+File Name: C:\kamleshyadav.com\html\miraculous\html\Bootstrap5\version1\assets\css\fonts.css
+Content Type: text/css
+
+Uri: https://kamleshyadav.com/html/miraculous/html/Bootstrap5/version1/assets/css/style.css
+File Name: C:\kamleshyadav.com\html\miraculous\html\Bootstrap5\version1\assets\css\style.css
+Content Type: text/css
+
+Uri: https://kamleshyadav.com/html/miraculous/html/Bootstrap5/version1/assets/fonts/fontawesome-webfont.eot?
+File Name: C:\kamleshyadav.com\html\miraculous\html\Bootstrap5\version1\assets\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://kamleshyadav.com/html/miraculous/html/Bootstrap5/version1/assets/fonts/fontawesome-webfont.eot?v=4.7.0
+File Name: C:\kamleshyadav.com\html\miraculous\html\Bootstrap5\version1\assets\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://kamleshyadav.com/html/miraculous/html/Bootstrap5/version1/assets/fonts/fontawesome-webfont.svg?v=4.7.0
+File Name: C:\kamleshyadav.com\html\miraculous\html\Bootstrap5\version1\assets\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://kamleshyadav.com/html/miraculous/html/Bootstrap5/version1/assets/fonts/fontawesome-webfont.ttf?v=4.7.0
+File Name: C:\kamleshyadav.com\html\miraculous\html\Bootstrap5\version1\assets\fonts\fontawesome-webfont.ttf
+Content Type: font/ttf
+
+Uri: https://kamleshyadav.com/html/miraculous/html/Bootstrap5/version1/assets/fonts/fontawesome-webfont.woff2?v=4.7.0
+File Name: C:\kamleshyadav.com\html\miraculous\html\Bootstrap5\version1\assets\fonts\fontawesome-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://kamleshyadav.com/html/miraculous/html/Bootstrap5/version1/assets/fonts/fontawesome-webfont.woff?v=4.7.0
+File Name: C:\kamleshyadav.com\html\miraculous\html\Bootstrap5\version1\assets\fonts\fontawesome-webfont.woff
+Content Type: font/woff
+
+Uri: https://kamleshyadav.com/html/miraculous/html/Bootstrap5/version1/assets/fonts/JosefinSans-Bold.eot
+File Name: C:\kamleshyadav.com\html\miraculous\html\Bootstrap5\version1\assets\fonts\JosefinSans-Bold.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://kamleshyadav.com/html/miraculous/html/Bootstrap5/version1/assets/fonts/JosefinSans-Bold.woff
+File Name: C:\kamleshyadav.com\html\miraculous\html\Bootstrap5\version1\assets\fonts\JosefinSans-Bold.woff
+Content Type: font/woff
+
+Uri: https://kamleshyadav.com/html/miraculous/html/Bootstrap5/version1/assets/fonts/JosefinSans-Bold.woff2
+File Name: C:\kamleshyadav.com\html\miraculous\html\Bootstrap5\version1\assets\fonts\JosefinSans-Bold.woff2
+Content Type: font/woff2
+
+Uri: https://kamleshyadav.com/html/miraculous/html/Bootstrap5/version1/assets/fonts/JosefinSans-Light.eot
+File Name: C:\kamleshyadav.com\html\miraculous\html\Bootstrap5\version1\assets\fonts\JosefinSans-Light.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://kamleshyadav.com/html/miraculous/html/Bootstrap5/version1/assets/fonts/JosefinSans-Light.woff
+File Name: C:\kamleshyadav.com\html\miraculous\html\Bootstrap5\version1\assets\fonts\JosefinSans-Light.woff
+Content Type: font/woff
+
+Uri: https://kamleshyadav.com/html/miraculous/html/Bootstrap5/version1/assets/fonts/JosefinSans-Light.woff2
+File Name: C:\kamleshyadav.com\html\miraculous\html\Bootstrap5\version1\assets\fonts\JosefinSans-Light.woff2
+Content Type: font/woff2
+
+Uri: https://kamleshyadav.com/html/miraculous/html/Bootstrap5/version1/assets/fonts/JosefinSans-Regular.eot
+File Name: C:\kamleshyadav.com\html\miraculous\html\Bootstrap5\version1\assets\fonts\JosefinSans-Regular.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://kamleshyadav.com/html/miraculous/html/Bootstrap5/version1/assets/fonts/JosefinSans-Regular.woff
+File Name: C:\kamleshyadav.com\html\miraculous\html\Bootstrap5\version1\assets\fonts\JosefinSans-Regular.woff
+Content Type: font/woff
+
+Uri: https://kamleshyadav.com/html/miraculous/html/Bootstrap5/version1/assets/fonts/JosefinSans-Regular.woff2
+File Name: C:\kamleshyadav.com\html\miraculous\html\Bootstrap5\version1\assets\fonts\JosefinSans-Regular.woff2
+Content Type: font/woff2
+
+Uri: https://kamleshyadav.com/html/miraculous/html/Bootstrap5/version1/assets/fonts/JosefinSans-SemiBold.eot
+File Name: C:\kamleshyadav.com\html\miraculous\html\Bootstrap5\version1\assets\fonts\JosefinSans-SemiBold.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://kamleshyadav.com/html/miraculous/html/Bootstrap5/version1/assets/fonts/JosefinSans-SemiBold.woff
+File Name: C:\kamleshyadav.com\html\miraculous\html\Bootstrap5\version1\assets\fonts\JosefinSans-SemiBold.woff
+Content Type: font/woff
+
+Uri: https://kamleshyadav.com/html/miraculous/html/Bootstrap5/version1/assets/fonts/JosefinSans-SemiBold.woff2
+File Name: C:\kamleshyadav.com\html\miraculous\html\Bootstrap5\version1\assets\fonts\JosefinSans-SemiBold.woff2
+Content Type: font/woff2
+
+Uri: https://kamleshyadav.com/html/miraculous/html/Bootstrap5/version1/assets/fonts/JosefinSans-Thin.eot
+File Name: C:\kamleshyadav.com\html\miraculous\html\Bootstrap5\version1\assets\fonts\JosefinSans-Thin.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://kamleshyadav.com/html/miraculous/html/Bootstrap5/version1/assets/fonts/JosefinSans-Thin.woff
+File Name: C:\kamleshyadav.com\html\miraculous\html\Bootstrap5\version1\assets\fonts\JosefinSans-Thin.woff
+Content Type: font/woff
+
+Uri: https://kamleshyadav.com/html/miraculous/html/Bootstrap5/version1/assets/fonts/JosefinSans-Thin.woff2
+File Name: C:\kamleshyadav.com\html\miraculous\html\Bootstrap5\version1\assets\fonts\JosefinSans-Thin.woff2
+Content Type: font/woff2
+
+Uri: https://kamleshyadav.com/html/miraculous/html/Bootstrap5/version1/assets/images/adv.jpg
+File Name: C:\kamleshyadav.com\html\miraculous\html\Bootstrap5\version1\assets\images\adv.jpg
+Content Type: image/jpeg
+
+Uri: https://kamleshyadav.com/html/miraculous/html/Bootstrap5/version1/assets/images/adv1.jpg
+File Name: C:\kamleshyadav.com\html\miraculous\html\Bootstrap5\version1\assets\images\adv1.jpg
+Content Type: image/jpeg
+
+Uri: https://kamleshyadav.com/html/miraculous/html/Bootstrap5/version1/assets/images/album/album1.jpg
+File Name: C:\kamleshyadav.com\html\miraculous\html\Bootstrap5\version1\assets\images\album\album1.jpg
+Content Type: image/jpeg
+
+Uri: https://kamleshyadav.com/html/miraculous/html/Bootstrap5/version1/assets/images/album/album10.jpg
+File Name: C:\kamleshyadav.com\html\miraculous\html\Bootstrap5\version1\assets\images\album\album10.jpg
+Content Type: image/jpeg
+
+Uri: https://kamleshyadav.com/html/miraculous/html/Bootstrap5/version1/assets/images/album/album2.jpg
+File Name: C:\kamleshyadav.com\html\miraculous\html\Bootstrap5\version1\assets\images\album\album2.jpg
+Content Type: image/jpeg
+
+Uri: https://kamleshyadav.com/html/miraculous/html/Bootstrap5/version1/assets/images/album/album3.jpg
+File Name: C:\kamleshyadav.com\html\miraculous\html\Bootstrap5\version1\assets\images\album\album3.jpg
+Content Type: image/jpeg
+
+Uri: https://kamleshyadav.com/html/miraculous/html/Bootstrap5/version1/assets/images/album/album4.jpg
+File Name: C:\kamleshyadav.com\html\miraculous\html\Bootstrap5\version1\assets\images\album\album4.jpg
+Content Type: image/jpeg
+
+Uri: https://kamleshyadav.com/html/miraculous/html/Bootstrap5/version1/assets/images/album/album5.jpg
+File Name: C:\kamleshyadav.com\html\miraculous\html\Bootstrap5\version1\assets\images\album\album5.jpg
+Content Type: image/jpeg
+
+Uri: https://kamleshyadav.com/html/miraculous/html/Bootstrap5/version1/assets/images/album/album6.jpg
+File Name: C:\kamleshyadav.com\html\miraculous\html\Bootstrap5\version1\assets\images\album\album6.jpg
+Content Type: image/jpeg
+
+Uri: https://kamleshyadav.com/html/miraculous/html/Bootstrap5/version1/assets/images/album/album7.jpg
+File Name: C:\kamleshyadav.com\html\miraculous\html\Bootstrap5\version1\assets\images\album\album7.jpg
+Content Type: image/jpeg
+
+Uri: https://kamleshyadav.com/html/miraculous/html/Bootstrap5/version1/assets/images/album/album8.jpg
+File Name: C:\kamleshyadav.com\html\miraculous\html\Bootstrap5\version1\assets\images\album\album8.jpg
+Content Type: image/jpeg
+
+Uri: https://kamleshyadav.com/html/miraculous/html/Bootstrap5/version1/assets/images/album/album9.jpg
+File Name: C:\kamleshyadav.com\html\miraculous\html\Bootstrap5\version1\assets\images\album\album9.jpg
+Content Type: image/jpeg
+
+Uri: https://kamleshyadav.com/html/miraculous/html/Bootstrap5/version1/assets/images/album/single_album.jpg
+File Name: C:\kamleshyadav.com\html\miraculous\html\Bootstrap5\version1\assets\images\album\single_album.jpg
+Content Type: image/jpeg
+
+Uri: https://kamleshyadav.com/html/miraculous/html/Bootstrap5/version1/assets/images/app_store.jpg
+File Name: C:\kamleshyadav.com\html\miraculous\html\Bootstrap5\version1\assets\images\app_store.jpg
+Content Type: image/jpeg
+
+Uri: https://kamleshyadav.com/html/miraculous/html/Bootstrap5/version1/assets/images/artist/artist1.jpg
+File Name: C:\kamleshyadav.com\html\miraculous\html\Bootstrap5\version1\assets\images\artist\artist1.jpg
+Content Type: image/jpeg
+
+Uri: https://kamleshyadav.com/html/miraculous/html/Bootstrap5/version1/assets/images/artist/artist10.jpg
+File Name: C:\kamleshyadav.com\html\miraculous\html\Bootstrap5\version1\assets\images\artist\artist10.jpg
+Content Type: image/jpeg
+
+Uri: https://kamleshyadav.com/html/miraculous/html/Bootstrap5/version1/assets/images/artist/artist11.jpg
+File Name: C:\kamleshyadav.com\html\miraculous\html\Bootstrap5\version1\assets\images\artist\artist11.jpg
+Content Type: image/jpeg
+
+Uri: https://kamleshyadav.com/html/miraculous/html/Bootstrap5/version1/assets/images/artist/artist12.jpg
+File Name: C:\kamleshyadav.com\html\miraculous\html\Bootstrap5\version1\assets\images\artist\artist12.jpg
+Content Type: image/jpeg
+
+Uri: https://kamleshyadav.com/html/miraculous/html/Bootstrap5/version1/assets/images/artist/artist13.jpg
+File Name: C:\kamleshyadav.com\html\miraculous\html\Bootstrap5\version1\assets\images\artist\artist13.jpg
+Content Type: image/jpeg
+
+Uri: https://kamleshyadav.com/html/miraculous/html/Bootstrap5/version1/assets/images/artist/artist2.jpg
+File Name: C:\kamleshyadav.com\html\miraculous\html\Bootstrap5\version1\assets\images\artist\artist2.jpg
+Content Type: image/jpeg
+
+Uri: https://kamleshyadav.com/html/miraculous/html/Bootstrap5/version1/assets/images/artist/artist3.jpg
+File Name: C:\kamleshyadav.com\html\miraculous\html\Bootstrap5\version1\assets\images\artist\artist3.jpg
+Content Type: image/jpeg
+
+Uri: https://kamleshyadav.com/html/miraculous/html/Bootstrap5/version1/assets/images/artist/artist4.jpg
+File Name: C:\kamleshyadav.com\html\miraculous\html\Bootstrap5\version1\assets\images\artist\artist4.jpg
+Content Type: image/jpeg
+
+Uri: https://kamleshyadav.com/html/miraculous/html/Bootstrap5/version1/assets/images/artist/artist5.jpg
+File Name: C:\kamleshyadav.com\html\miraculous\html\Bootstrap5\version1\assets\images\artist\artist5.jpg
+Content Type: image/jpeg
+
+Uri: https://kamleshyadav.com/html/miraculous/html/Bootstrap5/version1/assets/images/artist/artist6.jpg
+File Name: C:\kamleshyadav.com\html\miraculous\html\Bootstrap5\version1\assets\images\artist\artist6.jpg
+Content Type: image/jpeg
+
+Uri: https://kamleshyadav.com/html/miraculous/html/Bootstrap5/version1/assets/images/artist/artist7.jpg
+File Name: C:\kamleshyadav.com\html\miraculous\html\Bootstrap5\version1\assets\images\artist\artist7.jpg
+Content Type: image/jpeg
+
+Uri: https://kamleshyadav.com/html/miraculous/html/Bootstrap5/version1/assets/images/artist/artist8.jpg
+File Name: C:\kamleshyadav.com\html\miraculous\html\Bootstrap5\version1\assets\images\artist\artist8.jpg
+Content Type: image/jpeg
+
+Uri: https://kamleshyadav.com/html/miraculous/html/Bootstrap5/version1/assets/images/artist/artist9.jpg
+File Name: C:\kamleshyadav.com\html\miraculous\html\Bootstrap5\version1\assets\images\artist\artist9.jpg
+Content Type: image/jpeg
+
+Uri: https://kamleshyadav.com/html/miraculous/html/Bootstrap5/version1/assets/images/banner.png
+File Name: C:\kamleshyadav.com\html\miraculous\html\Bootstrap5\version1\assets\images\banner.png
+Content Type: image/png
+
+Uri: https://kamleshyadav.com/html/miraculous/html/Bootstrap5/version1/assets/images/blog/author.jpg
+File Name: C:\kamleshyadav.com\html\miraculous\html\Bootstrap5\version1\assets\images\blog\author.jpg
+Content Type: image/jpeg
+
+Uri: https://kamleshyadav.com/html/miraculous/html/Bootstrap5/version1/assets/images/blog/blog1.jpg
+File Name: C:\kamleshyadav.com\html\miraculous\html\Bootstrap5\version1\assets\images\blog\blog1.jpg
+Content Type: image/jpeg
+
+Uri: https://kamleshyadav.com/html/miraculous/html/Bootstrap5/version1/assets/images/blog/blog10.jpg
+File Name: C:\kamleshyadav.com\html\miraculous\html\Bootstrap5\version1\assets\images\blog\blog10.jpg
+Content Type: image/jpeg
+
+Uri: https://kamleshyadav.com/html/miraculous/html/Bootstrap5/version1/assets/images/blog/blog11.jpg
+File Name: C:\kamleshyadav.com\html\miraculous\html\Bootstrap5\version1\assets\images\blog\blog11.jpg
+Content Type: image/jpeg
+
+Uri: https://kamleshyadav.com/html/miraculous/html/Bootstrap5/version1/assets/images/blog/blog12.jpg
+File Name: C:\kamleshyadav.com\html\miraculous\html\Bootstrap5\version1\assets\images\blog\blog12.jpg
+Content Type: image/jpeg
+
+Uri: https://kamleshyadav.com/html/miraculous/html/Bootstrap5/version1/assets/images/blog/blog13.jpg
+File Name: C:\kamleshyadav.com\html\miraculous\html\Bootstrap5\version1\assets\images\blog\blog13.jpg
+Content Type: image/jpeg
+
+Uri: https://kamleshyadav.com/html/miraculous/html/Bootstrap5/version1/assets/images/blog/blog2.jpg
+File Name: C:\kamleshyadav.com\html\miraculous\html\Bootstrap5\version1\assets\images\blog\blog2.jpg
+Content Type: image/jpeg
+
+Uri: https://kamleshyadav.com/html/miraculous/html/Bootstrap5/version1/assets/images/blog/blog3.jpg
+File Name: C:\kamleshyadav.com\html\miraculous\html\Bootstrap5\version1\assets\images\blog\blog3.jpg
+Content Type: image/jpeg
+
+Uri: https://kamleshyadav.com/html/miraculous/html/Bootstrap5/version1/assets/images/blog/blog4.jpg
+File Name: C:\kamleshyadav.com\html\miraculous\html\Bootstrap5\version1\assets\images\blog\blog4.jpg
+Content Type: image/jpeg
+
+Uri: https://kamleshyadav.com/html/miraculous/html/Bootstrap5/version1/assets/images/blog/blog5.jpg
+File Name: C:\kamleshyadav.com\html\miraculous\html\Bootstrap5\version1\assets\images\blog\blog5.jpg
+Content Type: image/jpeg
+
+Uri: https://kamleshyadav.com/html/miraculous/html/Bootstrap5/version1/assets/images/blog/blog6.jpg
+File Name: C:\kamleshyadav.com\html\miraculous\html\Bootstrap5\version1\assets\images\blog\blog6.jpg
+Content Type: image/jpeg
+
+Uri: https://kamleshyadav.com/html/miraculous/html/Bootstrap5/version1/assets/images/blog/blog7.jpg
+File Name: C:\kamleshyadav.com\html\miraculous\html\Bootstrap5\version1\assets\images\blog\blog7.jpg
+Content Type: image/jpeg
+
+Uri: https://kamleshyadav.com/html/miraculous/html/Bootstrap5/version1/assets/images/blog/blog8.jpg
+File Name: C:\kamleshyadav.com\html\miraculous\html\Bootstrap5\version1\assets\images\blog\blog8.jpg
+Content Type: image/jpeg
+
+Uri: https://kamleshyadav.com/html/miraculous/html/Bootstrap5/version1/assets/images/blog/blog9.jpg
+File Name: C:\kamleshyadav.com\html\miraculous\html\Bootstrap5\version1\assets\images\blog\blog9.jpg
+Content Type: image/jpeg
+
+Uri: https://kamleshyadav.com/html/miraculous/html/Bootstrap5/version1/assets/images/blog/blog_single.jpg
+File Name: C:\kamleshyadav.com\html\miraculous\html\Bootstrap5\version1\assets\images\blog\blog_single.jpg
+Content Type: image/jpeg
+
+Uri: https://kamleshyadav.com/html/miraculous/html/Bootstrap5/version1/assets/images/blog/fp_img1.jpg
+File Name: C:\kamleshyadav.com\html\miraculous\html\Bootstrap5\version1\assets\images\blog\fp_img1.jpg
+Content Type: image/jpeg
+
+Uri: https://kamleshyadav.com/html/miraculous/html/Bootstrap5/version1/assets/images/blog/fp_img2.jpg
+File Name: C:\kamleshyadav.com\html\miraculous\html\Bootstrap5\version1\assets\images\blog\fp_img2.jpg
+Content Type: image/jpeg
+
+Uri: https://kamleshyadav.com/html/miraculous/html/Bootstrap5/version1/assets/images/favicon.png
+File Name: C:\kamleshyadav.com\html\miraculous\html\Bootstrap5\version1\assets\images\favicon.png
+Content Type: image/png
+
+Uri: https://kamleshyadav.com/html/miraculous/html/Bootstrap5/version1/assets/images/featured/song1.jpg
+File Name: C:\kamleshyadav.com\html\miraculous\html\Bootstrap5\version1\assets\images\featured\song1.jpg
+Content Type: image/jpeg
+
+Uri: https://kamleshyadav.com/html/miraculous/html/Bootstrap5/version1/assets/images/featured/song2.jpg
+File Name: C:\kamleshyadav.com\html\miraculous\html\Bootstrap5\version1\assets\images\featured\song2.jpg
+Content Type: image/jpeg
+
+Uri: https://kamleshyadav.com/html/miraculous/html/Bootstrap5/version1/assets/images/featured/song3.jpg
+File Name: C:\kamleshyadav.com\html\miraculous\html\Bootstrap5\version1\assets\images\featured\song3.jpg
+Content Type: image/jpeg
+
+Uri: https://kamleshyadav.com/html/miraculous/html/Bootstrap5/version1/assets/images/featured/song4.jpg
+File Name: C:\kamleshyadav.com\html\miraculous\html\Bootstrap5\version1\assets\images\featured\song4.jpg
+Content Type: image/jpeg
+
+Uri: https://kamleshyadav.com/html/miraculous/html/Bootstrap5/version1/assets/images/featured/song5.jpg
+File Name: C:\kamleshyadav.com\html\miraculous\html\Bootstrap5\version1\assets\images\featured\song5.jpg
+Content Type: image/jpeg
+
+Uri: https://kamleshyadav.com/html/miraculous/html/Bootstrap5/version1/assets/images/featured/song6.jpg
+File Name: C:\kamleshyadav.com\html\miraculous\html\Bootstrap5\version1\assets\images\featured\song6.jpg
+Content Type: image/jpeg
+
+Uri: https://kamleshyadav.com/html/miraculous/html/Bootstrap5/version1/assets/images/footer_bg.png
+File Name: C:\kamleshyadav.com\html\miraculous\html\Bootstrap5\version1\assets\images\footer_bg.png
+Content Type: image/png
+
+Uri: https://kamleshyadav.com/html/miraculous/html/Bootstrap5/version1/assets/images/genrs/img1.jpg
+File Name: C:\kamleshyadav.com\html\miraculous\html\Bootstrap5\version1\assets\images\genrs\img1.jpg
+Content Type: image/jpeg
+
+Uri: https://kamleshyadav.com/html/miraculous/html/Bootstrap5/version1/assets/images/genrs/img10.jpg
+File Name: C:\kamleshyadav.com\html\miraculous\html\Bootstrap5\version1\assets\images\genrs\img10.jpg
+Content Type: image/jpeg
+
+Uri: https://kamleshyadav.com/html/miraculous/html/Bootstrap5/version1/assets/images/genrs/img11.jpg
+File Name: C:\kamleshyadav.com\html\miraculous\html\Bootstrap5\version1\assets\images\genrs\img11.jpg
+Content Type: image/jpeg
+
+Uri: https://kamleshyadav.com/html/miraculous/html/Bootstrap5/version1/assets/images/genrs/img12.jpg
+File Name: C:\kamleshyadav.com\html\miraculous\html\Bootstrap5\version1\assets\images\genrs\img12.jpg
+Content Type: image/jpeg
+
+Uri: https://kamleshyadav.com/html/miraculous/html/Bootstrap5/version1/assets/images/genrs/img13.jpg
+File Name: C:\kamleshyadav.com\html\miraculous\html\Bootstrap5\version1\assets\images\genrs\img13.jpg
+Content Type: image/jpeg
+
+Uri: https://kamleshyadav.com/html/miraculous/html/Bootstrap5/version1/assets/images/genrs/img14.jpg
+File Name: C:\kamleshyadav.com\html\miraculous\html\Bootstrap5\version1\assets\images\genrs\img14.jpg
+Content Type: image/jpeg
+
+Uri: https://kamleshyadav.com/html/miraculous/html/Bootstrap5/version1/assets/images/genrs/img15.jpg
+File Name: C:\kamleshyadav.com\html\miraculous\html\Bootstrap5\version1\assets\images\genrs\img15.jpg
+Content Type: image/jpeg
+
+Uri: https://kamleshyadav.com/html/miraculous/html/Bootstrap5/version1/assets/images/genrs/img16.jpg
+File Name: C:\kamleshyadav.com\html\miraculous\html\Bootstrap5\version1\assets\images\genrs\img16.jpg
+Content Type: image/jpeg
+
+Uri: https://kamleshyadav.com/html/miraculous/html/Bootstrap5/version1/assets/images/genrs/img17.jpg
+File Name: C:\kamleshyadav.com\html\miraculous\html\Bootstrap5\version1\assets\images\genrs\img17.jpg
+Content Type: image/jpeg
+
+Uri: https://kamleshyadav.com/html/miraculous/html/Bootstrap5/version1/assets/images/genrs/img18.jpg
+File Name: C:\kamleshyadav.com\html\miraculous\html\Bootstrap5\version1\assets\images\genrs\img18.jpg
+Content Type: image/jpeg
+
+Uri: https://kamleshyadav.com/html/miraculous/html/Bootstrap5/version1/assets/images/genrs/img2.jpg
+File Name: C:\kamleshyadav.com\html\miraculous\html\Bootstrap5\version1\assets\images\genrs\img2.jpg
+Content Type: image/jpeg
+
+Uri: https://kamleshyadav.com/html/miraculous/html/Bootstrap5/version1/assets/images/genrs/img3.jpg
+File Name: C:\kamleshyadav.com\html\miraculous\html\Bootstrap5\version1\assets\images\genrs\img3.jpg
+Content Type: image/jpeg
+
+Uri: https://kamleshyadav.com/html/miraculous/html/Bootstrap5/version1/assets/images/genrs/img4.jpg
+File Name: C:\kamleshyadav.com\html\miraculous\html\Bootstrap5\version1\assets\images\genrs\img4.jpg
+Content Type: image/jpeg
+
+Uri: https://kamleshyadav.com/html/miraculous/html/Bootstrap5/version1/assets/images/genrs/img5.jpg
+File Name: C:\kamleshyadav.com\html\miraculous\html\Bootstrap5\version1\assets\images\genrs\img5.jpg
+Content Type: image/jpeg
+
+Uri: https://kamleshyadav.com/html/miraculous/html/Bootstrap5/version1/assets/images/genrs/img6.jpg
+File Name: C:\kamleshyadav.com\html\miraculous\html\Bootstrap5\version1\assets\images\genrs\img6.jpg
+Content Type: image/jpeg
+
+Uri: https://kamleshyadav.com/html/miraculous/html/Bootstrap5/version1/assets/images/genrs/img7.jpg
+File Name: C:\kamleshyadav.com\html\miraculous\html\Bootstrap5\version1\assets\images\genrs\img7.jpg
+Content Type: image/jpeg
+
+Uri: https://kamleshyadav.com/html/miraculous/html/Bootstrap5/version1/assets/images/genrs/img8.jpg
+File Name: C:\kamleshyadav.com\html\miraculous\html\Bootstrap5\version1\assets\images\genrs\img8.jpg
+Content Type: image/jpeg
+
+Uri: https://kamleshyadav.com/html/miraculous/html/Bootstrap5/version1/assets/images/genrs/img9.jpg
+File Name: C:\kamleshyadav.com\html\miraculous\html\Bootstrap5\version1\assets\images\genrs\img9.jpg
+Content Type: image/jpeg
+
+Uri: https://kamleshyadav.com/html/miraculous/html/Bootstrap5/version1/assets/images/google_play.jpg
+File Name: C:\kamleshyadav.com\html\miraculous\html\Bootstrap5\version1\assets\images\google_play.jpg
+Content Type: image/jpeg
+
+Uri: https://kamleshyadav.com/html/miraculous/html/Bootstrap5/version1/assets/images/loader.gif
+File Name: C:\kamleshyadav.com\html\miraculous\html\Bootstrap5\version1\assets\images\loader.gif
+Content Type: image/gif
+
+Uri: https://kamleshyadav.com/html/miraculous/html/Bootstrap5/version1/assets/images/logo.png
+File Name: C:\kamleshyadav.com\html\miraculous\html\Bootstrap5\version1\assets\images\logo.png
+Content Type: image/png
+
+Uri: https://kamleshyadav.com/html/miraculous/html/Bootstrap5/version1/assets/images/music/r_music1.jpg
+File Name: C:\kamleshyadav.com\html\miraculous\html\Bootstrap5\version1\assets\images\music\r_music1.jpg
+Content Type: image/jpeg
+
+Uri: https://kamleshyadav.com/html/miraculous/html/Bootstrap5/version1/assets/images/music/r_music2.jpg
+File Name: C:\kamleshyadav.com\html\miraculous\html\Bootstrap5\version1\assets\images\music\r_music2.jpg
+Content Type: image/jpeg
+
+Uri: https://kamleshyadav.com/html/miraculous/html/Bootstrap5/version1/assets/images/music/r_music3.jpg
+File Name: C:\kamleshyadav.com\html\miraculous\html\Bootstrap5\version1\assets\images\music\r_music3.jpg
+Content Type: image/jpeg
+
+Uri: https://kamleshyadav.com/html/miraculous/html/Bootstrap5/version1/assets/images/music/r_music4.jpg
+File Name: C:\kamleshyadav.com\html\miraculous\html\Bootstrap5\version1\assets\images\music\r_music4.jpg
+Content Type: image/jpeg
+
+Uri: https://kamleshyadav.com/html/miraculous/html/Bootstrap5/version1/assets/images/music/r_music5.jpg
+File Name: C:\kamleshyadav.com\html\miraculous\html\Bootstrap5\version1\assets\images\music\r_music5.jpg
+Content Type: image/jpeg
+
+Uri: https://kamleshyadav.com/html/miraculous/html/Bootstrap5/version1/assets/images/music/r_music6.jpg
+File Name: C:\kamleshyadav.com\html\miraculous\html\Bootstrap5\version1\assets\images\music\r_music6.jpg
+Content Type: image/jpeg
+
+Uri: https://kamleshyadav.com/html/miraculous/html/Bootstrap5/version1/assets/images/open_logo.png
+File Name: C:\kamleshyadav.com\html\miraculous\html\Bootstrap5\version1\assets\images\open_logo.png
+Content Type: image/png
+
+Uri: https://kamleshyadav.com/html/miraculous/html/Bootstrap5/version1/assets/images/plan_icon1.png
+File Name: C:\kamleshyadav.com\html\miraculous\html\Bootstrap5\version1\assets\images\plan_icon1.png
+Content Type: image/png
+
+Uri: https://kamleshyadav.com/html/miraculous/html/Bootstrap5/version1/assets/images/plan_icon2.png
+File Name: C:\kamleshyadav.com\html\miraculous\html\Bootstrap5\version1\assets\images\plan_icon2.png
+Content Type: image/png
+
+Uri: https://kamleshyadav.com/html/miraculous/html/Bootstrap5/version1/assets/images/plan_icon3.png
+File Name: C:\kamleshyadav.com\html\miraculous\html\Bootstrap5\version1\assets\images\plan_icon3.png
+Content Type: image/png
+
+Uri: https://kamleshyadav.com/html/miraculous/html/Bootstrap5/version1/assets/images/player_bg.jpg
+File Name: C:\kamleshyadav.com\html\miraculous\html\Bootstrap5\version1\assets\images\player_bg.jpg
+Content Type: image/jpeg
+
+Uri: https://kamleshyadav.com/html/miraculous/html/Bootstrap5/version1/assets/images/pro_img.jpg
+File Name: C:\kamleshyadav.com\html\miraculous\html\Bootstrap5\version1\assets\images\pro_img.jpg
+Content Type: image/jpeg
+
+Uri: https://kamleshyadav.com/html/miraculous/html/Bootstrap5/version1/assets/images/radio/img1.jpg
+File Name: C:\kamleshyadav.com\html\miraculous\html\Bootstrap5\version1\assets\images\radio\img1.jpg
+Content Type: image/jpeg
+
+Uri: https://kamleshyadav.com/html/miraculous/html/Bootstrap5/version1/assets/images/radio/img10.jpg
+File Name: C:\kamleshyadav.com\html\miraculous\html\Bootstrap5\version1\assets\images\radio\img10.jpg
+Content Type: image/jpeg
+
+Uri: https://kamleshyadav.com/html/miraculous/html/Bootstrap5/version1/assets/images/radio/img11.jpg
+File Name: C:\kamleshyadav.com\html\miraculous\html\Bootstrap5\version1\assets\images\radio\img11.jpg
+Content Type: image/jpeg
+
+Uri: https://kamleshyadav.com/html/miraculous/html/Bootstrap5/version1/assets/images/radio/img12.jpg
+File Name: C:\kamleshyadav.com\html\miraculous\html\Bootstrap5\version1\assets\images\radio\img12.jpg
+Content Type: image/jpeg
+
+Uri: https://kamleshyadav.com/html/miraculous/html/Bootstrap5/version1/assets/images/radio/img13.jpg
+File Name: C:\kamleshyadav.com\html\miraculous\html\Bootstrap5\version1\assets\images\radio\img13.jpg
+Content Type: image/jpeg
+
+Uri: https://kamleshyadav.com/html/miraculous/html/Bootstrap5/version1/assets/images/radio/img2.jpg
+File Name: C:\kamleshyadav.com\html\miraculous\html\Bootstrap5\version1\assets\images\radio\img2.jpg
+Content Type: image/jpeg
+
+Uri: https://kamleshyadav.com/html/miraculous/html/Bootstrap5/version1/assets/images/radio/img3.jpg
+File Name: C:\kamleshyadav.com\html\miraculous\html\Bootstrap5\version1\assets\images\radio\img3.jpg
+Content Type: image/jpeg
+
+Uri: https://kamleshyadav.com/html/miraculous/html/Bootstrap5/version1/assets/images/radio/img4.jpg
+File Name: C:\kamleshyadav.com\html\miraculous\html\Bootstrap5\version1\assets\images\radio\img4.jpg
+Content Type: image/jpeg
+
+Uri: https://kamleshyadav.com/html/miraculous/html/Bootstrap5/version1/assets/images/radio/img5.jpg
+File Name: C:\kamleshyadav.com\html\miraculous\html\Bootstrap5\version1\assets\images\radio\img5.jpg
+Content Type: image/jpeg
+
+Uri: https://kamleshyadav.com/html/miraculous/html/Bootstrap5/version1/assets/images/radio/img6.jpg
+File Name: C:\kamleshyadav.com\html\miraculous\html\Bootstrap5\version1\assets\images\radio\img6.jpg
+Content Type: image/jpeg
+
+Uri: https://kamleshyadav.com/html/miraculous/html/Bootstrap5/version1/assets/images/radio/img7.jpg
+File Name: C:\kamleshyadav.com\html\miraculous\html\Bootstrap5\version1\assets\images\radio\img7.jpg
+Content Type: image/jpeg
+
+Uri: https://kamleshyadav.com/html/miraculous/html/Bootstrap5/version1/assets/images/radio/img8.jpg
+File Name: C:\kamleshyadav.com\html\miraculous\html\Bootstrap5\version1\assets\images\radio\img8.jpg
+Content Type: image/jpeg
+
+Uri: https://kamleshyadav.com/html/miraculous/html/Bootstrap5/version1/assets/images/radio/img9.jpg
+File Name: C:\kamleshyadav.com\html\miraculous\html\Bootstrap5\version1\assets\images\radio\img9.jpg
+Content Type: image/jpeg
+
+Uri: https://kamleshyadav.com/html/miraculous/html/Bootstrap5/version1/assets/images/register_img.png
+File Name: C:\kamleshyadav.com\html\miraculous\html\Bootstrap5\version1\assets\images\register_img.png
+Content Type: image/png
+
+Uri: https://kamleshyadav.com/html/miraculous/html/Bootstrap5/version1/assets/images/station/station1.jpg
+File Name: C:\kamleshyadav.com\html\miraculous\html\Bootstrap5\version1\assets\images\station\station1.jpg
+Content Type: image/jpeg
+
+Uri: https://kamleshyadav.com/html/miraculous/html/Bootstrap5/version1/assets/images/svg/add.svg
+File Name: C:\kamleshyadav.com\html\miraculous\html\Bootstrap5\version1\assets\images\svg\add.svg
+Content Type: image/svg+xml
+
+Uri: https://kamleshyadav.com/html/miraculous/html/Bootstrap5/version1/assets/images/svg/add_q.svg
+File Name: C:\kamleshyadav.com\html\miraculous\html\Bootstrap5\version1\assets\images\svg\add_q.svg
+Content Type: image/svg+xml
+
+Uri: https://kamleshyadav.com/html/miraculous/html/Bootstrap5/version1/assets/images/svg/close.svg
+File Name: C:\kamleshyadav.com\html\miraculous\html\Bootstrap5\version1\assets\images\svg\close.svg
+Content Type: image/svg+xml
+
+Uri: https://kamleshyadav.com/html/miraculous/html/Bootstrap5/version1/assets/images/svg/icon.svg
+File Name: C:\kamleshyadav.com\html\miraculous\html\Bootstrap5\version1\assets\images\svg\icon.svg
+Content Type: image/svg+xml
+
+Uri: https://kamleshyadav.com/html/miraculous/html/Bootstrap5/version1/assets/images/svg/lang.svg
+File Name: C:\kamleshyadav.com\html\miraculous\html\Bootstrap5\version1\assets\images\svg\lang.svg
+Content Type: image/svg+xml
+
+Uri: https://kamleshyadav.com/html/miraculous/html/Bootstrap5/version1/assets/images/svg/left_arrow.svg
+File Name: C:\kamleshyadav.com\html\miraculous\html\Bootstrap5\version1\assets\images\svg\left_arrow.svg
+Content Type: image/svg+xml
+
+Uri: https://kamleshyadav.com/html/miraculous/html/Bootstrap5/version1/assets/images/svg/message.svg
+File Name: C:\kamleshyadav.com\html\miraculous\html\Bootstrap5\version1\assets\images\svg\message.svg
+Content Type: image/svg+xml
+
+Uri: https://kamleshyadav.com/html/miraculous/html/Bootstrap5/version1/assets/images/svg/more.svg
+File Name: C:\kamleshyadav.com\html\miraculous\html\Bootstrap5\version1\assets\images\svg\more.svg
+Content Type: image/svg+xml
+
+Uri: https://kamleshyadav.com/html/miraculous/html/Bootstrap5/version1/assets/images/svg/pause_all.svg
+File Name: C:\kamleshyadav.com\html\miraculous\html\Bootstrap5\version1\assets\images\svg\pause_all.svg
+Content Type: image/svg+xml
+
+Uri: https://kamleshyadav.com/html/miraculous/html/Bootstrap5/version1/assets/images/svg/phone.svg
+File Name: C:\kamleshyadav.com\html\miraculous\html\Bootstrap5\version1\assets\images\svg\phone.svg
+Content Type: image/svg+xml
+
+Uri: https://kamleshyadav.com/html/miraculous/html/Bootstrap5/version1/assets/images/svg/play.svg
+File Name: C:\kamleshyadav.com\html\miraculous\html\Bootstrap5\version1\assets\images\svg\play.svg
+Content Type: image/svg+xml
+
+Uri: https://kamleshyadav.com/html/miraculous/html/Bootstrap5/version1/assets/images/svg/play_all.svg
+File Name: C:\kamleshyadav.com\html\miraculous\html\Bootstrap5\version1\assets\images\svg\play_all.svg
+Content Type: image/svg+xml
+
+Uri: https://kamleshyadav.com/html/miraculous/html/Bootstrap5/version1/assets/images/svg/play_icon.svg
+File Name: C:\kamleshyadav.com\html\miraculous\html\Bootstrap5\version1\assets\images\svg\play_icon.svg
+Content Type: image/svg+xml
+
+Uri: https://kamleshyadav.com/html/miraculous/html/Bootstrap5/version1/assets/images/svg/quote.svg
+File Name: C:\kamleshyadav.com\html\miraculous\html\Bootstrap5\version1\assets\images\svg\quote.svg
+Content Type: image/svg+xml
+
+Uri: https://kamleshyadav.com/html/miraculous/html/Bootstrap5/version1/assets/images/svg/right_arrow.svg
+File Name: C:\kamleshyadav.com\html\miraculous\html\Bootstrap5\version1\assets\images\svg\right_arrow.svg
+Content Type: image/svg+xml
+
+Uri: https://kamleshyadav.com/html/miraculous/html/Bootstrap5/version1/assets/images/svg/search.svg
+File Name: C:\kamleshyadav.com\html\miraculous\html\Bootstrap5\version1\assets\images\svg\search.svg
+Content Type: image/svg+xml
+
+Uri: https://kamleshyadav.com/html/miraculous/html/Bootstrap5/version1/assets/images/svg/share.svg
+File Name: C:\kamleshyadav.com\html\miraculous\html\Bootstrap5\version1\assets\images\svg\share.svg
+Content Type: image/svg+xml
+
+Uri: https://kamleshyadav.com/html/miraculous/html/Bootstrap5/version1/assets/images/svg/sound.svg
+File Name: C:\kamleshyadav.com\html\miraculous\html\Bootstrap5\version1\assets\images\svg\sound.svg
+Content Type: image/svg+xml
+
+Uri: https://kamleshyadav.com/html/miraculous/html/Bootstrap5/version1/assets/images/svg/upload.svg
+File Name: C:\kamleshyadav.com\html\miraculous\html\Bootstrap5\version1\assets\images\svg\upload.svg
+Content Type: image/svg+xml
+
+Uri: https://kamleshyadav.com/html/miraculous/html/Bootstrap5/version1/assets/images/svg/volume.svg
+File Name: C:\kamleshyadav.com\html\miraculous\html\Bootstrap5\version1\assets\images\svg\volume.svg
+Content Type: image/svg+xml
+
+Uri: https://kamleshyadav.com/html/miraculous/html/Bootstrap5/version1/assets/images/user1.jpg
+File Name: C:\kamleshyadav.com\html\miraculous\html\Bootstrap5\version1\assets\images\user1.jpg
+Content Type: image/jpeg
+
+Uri: https://kamleshyadav.com/html/miraculous/html/Bootstrap5/version1/assets/images/user2.jpg
+File Name: C:\kamleshyadav.com\html\miraculous\html\Bootstrap5\version1\assets\images\user2.jpg
+Content Type: image/jpeg
+
+Uri: https://kamleshyadav.com/html/miraculous/html/Bootstrap5/version1/assets/images/user3.jpg
+File Name: C:\kamleshyadav.com\html\miraculous\html\Bootstrap5\version1\assets\images\user3.jpg
+Content Type: image/jpeg
+
+Uri: https://kamleshyadav.com/html/miraculous/html/Bootstrap5/version1/assets/images/user4.jpg
+File Name: C:\kamleshyadav.com\html\miraculous\html\Bootstrap5\version1\assets\images\user4.jpg
+Content Type: image/jpeg
+
+Uri: https://kamleshyadav.com/html/miraculous/html/Bootstrap5/version1/assets/images/weekly/song1.jpg
+File Name: C:\kamleshyadav.com\html\miraculous\html\Bootstrap5\version1\assets\images\weekly\song1.jpg
+Content Type: image/jpeg
+
+Uri: https://kamleshyadav.com/html/miraculous/html/Bootstrap5/version1/assets/images/weekly/song11.jpg
+File Name: C:\kamleshyadav.com\html\miraculous\html\Bootstrap5\version1\assets\images\weekly\song11.jpg
+Content Type: image/jpeg
+
+Uri: https://kamleshyadav.com/html/miraculous/html/Bootstrap5/version1/assets/images/weekly/song12.jpg
+File Name: C:\kamleshyadav.com\html\miraculous\html\Bootstrap5\version1\assets\images\weekly\song12.jpg
+Content Type: image/jpeg
+
+Uri: https://kamleshyadav.com/html/miraculous/html/Bootstrap5/version1/assets/images/weekly/song13.jpg
+File Name: C:\kamleshyadav.com\html\miraculous\html\Bootstrap5\version1\assets\images\weekly\song13.jpg
+Content Type: image/jpeg
+
+Uri: https://kamleshyadav.com/html/miraculous/html/Bootstrap5/version1/assets/images/weekly/song14.jpg
+File Name: C:\kamleshyadav.com\html\miraculous\html\Bootstrap5\version1\assets\images\weekly\song14.jpg
+Content Type: image/jpeg
+
+Uri: https://kamleshyadav.com/html/miraculous/html/Bootstrap5/version1/assets/images/weekly/song2.jpg
+File Name: C:\kamleshyadav.com\html\miraculous\html\Bootstrap5\version1\assets\images\weekly\song2.jpg
+Content Type: image/jpeg
+
+Uri: https://kamleshyadav.com/html/miraculous/html/Bootstrap5/version1/assets/images/weekly/song3.jpg
+File Name: C:\kamleshyadav.com\html\miraculous\html\Bootstrap5\version1\assets\images\weekly\song3.jpg
+Content Type: image/jpeg
+
+Uri: https://kamleshyadav.com/html/miraculous/html/Bootstrap5/version1/assets/images/weekly/song4.jpg
+File Name: C:\kamleshyadav.com\html\miraculous\html\Bootstrap5\version1\assets\images\weekly\song4.jpg
+Content Type: image/jpeg
+
+Uri: https://kamleshyadav.com/html/miraculous/html/Bootstrap5/version1/assets/images/weekly/song5.jpg
+File Name: C:\kamleshyadav.com\html\miraculous\html\Bootstrap5\version1\assets\images\weekly\song5.jpg
+Content Type: image/jpeg
+
+Uri: https://kamleshyadav.com/html/miraculous/html/Bootstrap5/version1/assets/images/weekly/song6.jpg
+File Name: C:\kamleshyadav.com\html\miraculous\html\Bootstrap5\version1\assets\images\weekly\song6.jpg
+Content Type: image/jpeg
+
+Uri: https://kamleshyadav.com/html/miraculous/html/Bootstrap5/version1/assets/images/weekly/song7.jpg
+File Name: C:\kamleshyadav.com\html\miraculous\html\Bootstrap5\version1\assets\images\weekly\song7.jpg
+Content Type: image/jpeg
+
+Uri: https://kamleshyadav.com/html/miraculous/html/Bootstrap5/version1/assets/images/weekly/song8.jpg
+File Name: C:\kamleshyadav.com\html\miraculous\html\Bootstrap5\version1\assets\images\weekly\song8.jpg
+Content Type: image/jpeg
+
+Uri: https://kamleshyadav.com/html/miraculous/html/Bootstrap5/version1/assets/images/weekly/song9.jpg
+File Name: C:\kamleshyadav.com\html\miraculous\html\Bootstrap5\version1\assets\images\weekly\song9.jpg
+Content Type: image/jpeg
+
+Uri: https://kamleshyadav.com/html/miraculous/html/Bootstrap5/version1/assets/images/windows.jpg
+File Name: C:\kamleshyadav.com\html\miraculous\html\Bootstrap5\version1\assets\images\windows.jpg
+Content Type: image/jpeg
+
+Uri: https://kamleshyadav.com/html/miraculous/html/Bootstrap5/version1/assets/js/bootstrap.min.js
+File Name: C:\kamleshyadav.com\html\miraculous\html\Bootstrap5\version1\assets\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://kamleshyadav.com/html/miraculous/html/Bootstrap5/version1/assets/js/custom.js
+File Name: C:\kamleshyadav.com\html\miraculous\html\Bootstrap5\version1\assets\js\custom.js
+Content Type: application/javascript
+
+Uri: https://kamleshyadav.com/html/miraculous/html/Bootstrap5/version1/assets/js/jquery.min.js
+File Name: C:\kamleshyadav.com\html\miraculous\html\Bootstrap5\version1\assets\js\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://kamleshyadav.com/html/miraculous/html/Bootstrap5/version1/assets/js/plugins/nice_select/jquery.nice-select.min.js
+File Name: C:\kamleshyadav.com\html\miraculous\html\Bootstrap5\version1\assets\js\plugins\nice_select\jquery.nice-select.min.js
+Content Type: application/javascript
+
+Uri: https://kamleshyadav.com/html/miraculous/html/Bootstrap5/version1/assets/js/plugins/nice_select/nice-select.css
+File Name: C:\kamleshyadav.com\html\miraculous\html\Bootstrap5\version1\assets\js\plugins\nice_select\nice-select.css
+Content Type: text/css
+
+Uri: https://kamleshyadav.com/html/miraculous/html/Bootstrap5/version1/assets/js/plugins/player/audio-player.js
+File Name: C:\kamleshyadav.com\html\miraculous\html\Bootstrap5\version1\assets\js\plugins\player\audio-player.js
+Content Type: application/javascript
+
+Uri: https://kamleshyadav.com/html/miraculous/html/Bootstrap5/version1/assets/js/plugins/player/jplayer.playlist.min.js
+File Name: C:\kamleshyadav.com\html\miraculous\html\Bootstrap5\version1\assets\js\plugins\player\jplayer.playlist.min.js
+Content Type: application/javascript
+
+Uri: https://kamleshyadav.com/html/miraculous/html/Bootstrap5/version1/assets/js/plugins/player/jquery.jplayer.min.js
+File Name: C:\kamleshyadav.com\html\miraculous\html\Bootstrap5\version1\assets\js\plugins\player\jquery.jplayer.min.js
+Content Type: application/javascript
+
+Uri: https://kamleshyadav.com/html/miraculous/html/Bootstrap5/version1/assets/js/plugins/player/volume.css
+File Name: C:\kamleshyadav.com\html\miraculous\html\Bootstrap5\version1\assets\js\plugins\player\volume.css
+Content Type: text/css
+
+Uri: https://kamleshyadav.com/html/miraculous/html/Bootstrap5/version1/assets/js/plugins/player/volume.js
+File Name: C:\kamleshyadav.com\html\miraculous\html\Bootstrap5\version1\assets\js\plugins\player\volume.js
+Content Type: application/javascript
+
+Uri: https://kamleshyadav.com/html/miraculous/html/Bootstrap5/version1/assets/js/plugins/scroll/jquery.mCustomScrollbar.css
+File Name: C:\kamleshyadav.com\html\miraculous\html\Bootstrap5\version1\assets\js\plugins\scroll\jquery.mCustomScrollbar.css
+Content Type: text/css
+
+Uri: https://kamleshyadav.com/html/miraculous/html/Bootstrap5/version1/assets/js/plugins/scroll/jquery.mCustomScrollbar.js
+File Name: C:\kamleshyadav.com\html\miraculous\html\Bootstrap5\version1\assets\js\plugins\scroll\jquery.mCustomScrollbar.js
+Content Type: application/javascript
+
+Uri: https://kamleshyadav.com/html/miraculous/html/Bootstrap5/version1/assets/js/plugins/swiper/css/swiper.min.css
+File Name: C:\kamleshyadav.com\html\miraculous\html\Bootstrap5\version1\assets\js\plugins\swiper\css\swiper.min.css
+Content Type: text/css
+
+Uri: https://kamleshyadav.com/html/miraculous/html/Bootstrap5/version1/assets/js/plugins/swiper/js/swiper.min.js
+File Name: C:\kamleshyadav.com\html\miraculous\html\Bootstrap5\version1\assets\js\plugins\swiper\js\swiper.min.js
+Content Type: application/javascript
+
+Uri: https://kamleshyadav.com/html/miraculous/html/Bootstrap5/version1/blog.html
+File Name: C:\kamleshyadav.com\html\miraculous\html\Bootstrap5\version1\blog.html
+Content Type: text/html
+
+Uri: https://kamleshyadav.com/html/miraculous/html/Bootstrap5/version1/blog_single.html
+File Name: C:\kamleshyadav.com\html\miraculous\html\Bootstrap5\version1\blog_single.html
+Content Type: text/html
+
+Uri: https://kamleshyadav.com/html/miraculous/html/Bootstrap5/version1/download.html
+File Name: C:\kamleshyadav.com\html\miraculous\html\Bootstrap5\version1\download.html
+Content Type: text/html
+
+Uri: https://kamleshyadav.com/html/miraculous/html/Bootstrap5/version1/favourite.html
+File Name: C:\kamleshyadav.com\html\miraculous\html\Bootstrap5\version1\favourite.html
+Content Type: text/html
+
+Uri: https://kamleshyadav.com/html/miraculous/html/Bootstrap5/version1/feature_playlist.html
+File Name: C:\kamleshyadav.com\html\miraculous\html\Bootstrap5\version1\feature_playlist.html
+Content Type: text/html
+
+Uri: https://kamleshyadav.com/html/miraculous/html/Bootstrap5/version1/free_music.html
+File Name: C:\kamleshyadav.com\html\miraculous\html\Bootstrap5\version1\free_music.html
+Content Type: text/html
+
+Uri: https://kamleshyadav.com/html/miraculous/html/Bootstrap5/version1/genres.html
+File Name: C:\kamleshyadav.com\html\miraculous\html\Bootstrap5\version1\genres.html
+Content Type: text/html
+
+Uri: https://kamleshyadav.com/html/miraculous/html/Bootstrap5/version1/genres_single.html
+File Name: C:\kamleshyadav.com\html\miraculous\html\Bootstrap5\version1\genres_single.html
+Content Type: text/html
+
+Uri: https://kamleshyadav.com/html/miraculous/html/Bootstrap5/version1/history.html
+File Name: C:\kamleshyadav.com\html\miraculous\html\Bootstrap5\version1\history.html
+Content Type: text/html
+
+Uri: https://kamleshyadav.com/html/miraculous/html/Bootstrap5/version1/index.html
+File Name: C:\kamleshyadav.com\html\miraculous\html\Bootstrap5\version1\index.html
+Content Type: text/html
+
+Uri: https://kamleshyadav.com/html/miraculous/html/Bootstrap5/version1/manage_acc.html
+File Name: C:\kamleshyadav.com\html\miraculous\html\Bootstrap5\version1\manage_acc.html
+Content Type: text/html
+
+Uri: https://kamleshyadav.com/html/miraculous/html/Bootstrap5/version1/profile.html
+File Name: C:\kamleshyadav.com\html\miraculous\html\Bootstrap5\version1\profile.html
+Content Type: text/html
+
+Uri: https://kamleshyadav.com/html/miraculous/html/Bootstrap5/version1/purchase.html
+File Name: C:\kamleshyadav.com\html\miraculous\html\Bootstrap5\version1\purchase.html
+Content Type: text/html
+
+Uri: https://kamleshyadav.com/html/miraculous/html/Bootstrap5/version1/stations.html
+File Name: C:\kamleshyadav.com\html\miraculous\html\Bootstrap5\version1\stations.html
+Content Type: text/html
+
+Uri: https://kamleshyadav.com/html/miraculous/html/Bootstrap5/version1/top_track.html
+File Name: C:\kamleshyadav.com\html\miraculous\html\Bootstrap5\version1\top_track.html
+Content Type: text/html
+
+Uri: https://kamleshyadav.com/html/miraculous/html/Bootstrap5/version1/upload.html
+File Name: C:\kamleshyadav.com\html\miraculous\html\Bootstrap5\version1\upload.html
+Content Type: text/html
+
