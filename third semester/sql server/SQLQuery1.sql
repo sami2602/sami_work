@@ -14,4 +14,4 @@ values('Chocolate Biscuits',5,50),
 ('Coconut Biscuits',8,20),
 ('Strawberry Cake',300,5),
 ('Brownie',15,40),
-('Pastries',15,3
+('Pastries',15,30)
